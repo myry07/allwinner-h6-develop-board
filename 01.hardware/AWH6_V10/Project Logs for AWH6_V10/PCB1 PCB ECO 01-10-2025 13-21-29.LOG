@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=SCKN Pin=U?-AB12
+Removed Pin From Net: NetName=SCKP Pin=U?-AC12
+Removed Pin From Net: NetName=SCKN Pin=U??-J2
+Removed Pin From Net: NetName=SCKP Pin=U??-J3
+Change Net Name : Old Net Name=SDQS1N New Net Name=SDQS1_N
+Change Net Name : Old Net Name=SDQS1P New Net Name=SDQS1_P
+Change Net Name : Old Net Name=SDQS2N New Net Name=SDQS2_N
+Change Net Name : Old Net Name=SDQS2P New Net Name=SDQS2_P
+Change Net Name : Old Net Name=SDQS3N New Net Name=SDQS3_N
+Change Net Name : Old Net Name=SDQS3P New Net Name=SDQS3_P
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=SCK_N Pin=U?-AB12
+Added Pin To Net: NetName=SCK_N Pin=U??-J2
+Added Net: Name=SCK_N
+Added Pin To Net: NetName=SCK_P Pin=U?-AC12
+Added Pin To Net: NetName=SCK_P Pin=U??-J3
+Added Net: Name=SCK_P
+Added Differential Pair: Name=SCK
+Added Differential Pair: Name=SDQS1
+Added Differential Pair: Name=SDQS2
+Added Differential Pair: Name=SDQS3
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 2kO
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 2kO
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 240O
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 1.5kO
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 240O
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 2kO
+Added Member To Class: ClassName=AWH6 Member=Component U?? Allwinner_H6
+Added Member To Class: ClassName=AWH6 Member=Component U?? Allwinner_H6
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component U? LPDDR3-2G
+Added Member To Class: ClassName=TF-Card and USB Member=Component USB?? USB-303WSD-BRY

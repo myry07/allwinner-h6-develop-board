@@ -1,0 +1,640 @@
+Added Component: Designator=AUDIO??(AUDIO-SMD_PJ-327C-4A)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "3.5mm Headphone Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/PJ-327C-4A/157145.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PJ-327C-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "3.5mm???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PJ-327C-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C145813"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PJ-327C-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=CN??(HDMI-SMD_KH-HDMI-19P-CU)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "HDMI-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211208/D47DE7411E98B8CA58BDDFA754B04DEC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KH-HDMI-19P-Cu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Mother"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "KH-HDMI-19P-Cu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "kinghelm(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KH-HDMI-19P-Cu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Horizontal attachment"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "19P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C709361"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KH-HDMI-19P-CU"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=U??(BGA451_ALLWINNER_H6)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Added Component: Designator=U??(QFN-56_L7.0-W7.0-P0.40-TL-EP4.6)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AXP805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AXP805"; VariantName = "[No Variations]"
+Added Component: Designator=U??(QFN-44_L12.0-W12.0-P0.90-TL_AP6212)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Antenna Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AP6212/2941698.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "On-board PCB antenna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPAK(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power"; Value = "16dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receive  Current"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Send  Current"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "-90dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "QFN-44(12x12)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2798300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized IC / Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wireless Standard"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U??(BGA451_ALLWINNER_H6)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Added Component: Designator=U??(FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "configuration"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Operating Voltage (VCCQ)"; Value = "2.7V~3.6V;1.7V~1.95V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/KLM8G1GETF-B041/512098.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "eMMC 5.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "8GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAND Operating Voltage (VCCF)"; Value = "2.7V~3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Random Read/Write (IOPS)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reading Speed in Sequence"; Value = "330MB/S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sequential Read/Write (MB/s)"; Value = "330/50 MB/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "FBGA-153(11.5x13)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C499918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.7V~3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Writing Speed in Sequence"; Value = "50MB/S"; VariantName = "[No Variations]"
+Added Component: Designator=U??(FBGA-178_L11.5-W11.0_K4E6E304EC-TL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.comnull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "LPDDR3-2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "K4E6E304EC-EGCG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "K4E6E304EC-EGCG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2803256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "K4E6E304EC-EGCG"; VariantName = "[No Variations]"
+Added Component: Designator=U??(BGA451_ALLWINNER_H6)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TF-SMD_TF-01A)
+Added Component: Designator=U?(FBGA-178_L11.5-W11.0_K4E6E304EC-TL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.comnull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "LPDDR3-2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "K4E6E304EC-EGCG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "K4E6E304EC-EGCG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2803256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "K4E6E304EC-EGCG"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BGA451_ALLWINNER_H6)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Added Component: Designator=USB??(USB-A-TH_4P-P1.40-V-F-C39416)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating-Power"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/906-162A1011D10200/40400.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "906-162A1011D10200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Type-A ? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "906-162A1011D10200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Vertical, Flag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protocol Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C39417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AFSide of the three straight feet boundless copper14.0PBTWhite plastic90degree"; VariantName = "[No Variations]"
+Added Component: Designator=USB??(USB-A-TH_XUNPU_USB-303WSD-BRY)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating-Power"; Value = "1.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/USB-303WSD-BRY/3132965.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detection color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "USB-303WSD-BRY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Type-A ? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XUNPU(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "USB-303WSD-BRY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9Px2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protocol Standard"; Value = "USB 3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2895028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "USB-303WSD-BRY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=USBC?(USB-C-SMD_MC-312D-C)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SOFNG(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MC-312D-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MC-312D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C183607"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-AA4
+Added Pin To Net: NetName=GND Pin=U?-AA11
+Added Pin To Net: NetName=GND Pin=U?-AA14
+Added Pin To Net: NetName=GND Pin=U?-AA20
+Added Pin To Net: NetName=GND Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B5
+Added Pin To Net: NetName=GND Pin=U?-B6
+Added Pin To Net: NetName=GND Pin=U?-B12
+Added Pin To Net: NetName=GND Pin=U?-C3
+Added Pin To Net: NetName=GND Pin=U?-C5
+Added Pin To Net: NetName=GND Pin=U?-C6
+Added Pin To Net: NetName=GND Pin=U?-D3
+Added Pin To Net: NetName=GND Pin=U?-D12
+Added Pin To Net: NetName=GND Pin=U?-E4
+Added Pin To Net: NetName=GND Pin=U?-E5
+Added Pin To Net: NetName=GND Pin=U?-E6
+Added Pin To Net: NetName=GND Pin=U?-F4
+Added Pin To Net: NetName=GND Pin=U?-F5
+Added Pin To Net: NetName=GND Pin=U?-F6
+Added Pin To Net: NetName=GND Pin=U?-F12
+Added Pin To Net: NetName=GND Pin=U?-G3
+Added Pin To Net: NetName=GND Pin=U?-G4
+Added Pin To Net: NetName=GND Pin=U?-G9
+Added Pin To Net: NetName=GND Pin=U?-H2
+Added Pin To Net: NetName=GND Pin=U?-H10
+Added Pin To Net: NetName=GND Pin=U?-J4
+Added Pin To Net: NetName=GND Pin=U?-J12
+Added Pin To Net: NetName=GND Pin=U?-K2
+Added Pin To Net: NetName=GND Pin=U?-K10
+Added Pin To Net: NetName=GND Pin=U?-L6
+Added Pin To Net: NetName=GND Pin=U?-L9
+Added Pin To Net: NetName=GND Pin=U?-M4
+Added Pin To Net: NetName=GND Pin=U?-M5
+Added Pin To Net: NetName=GND Pin=U?-M6
+Added Pin To Net: NetName=GND Pin=U?-M12
+Added Pin To Net: NetName=GND Pin=U?-N4
+Added Pin To Net: NetName=GND Pin=U?-N5
+Added Pin To Net: NetName=GND Pin=U?-N6
+Added Pin To Net: NetName=GND Pin=U?-P3
+Added Pin To Net: NetName=GND Pin=U?-P12
+Added Pin To Net: NetName=GND Pin=U?-R4
+Added Pin To Net: NetName=GND Pin=U?-R5
+Added Pin To Net: NetName=GND Pin=U?-R6
+Added Pin To Net: NetName=GND Pin=U?-T2
+Added Pin To Net: NetName=GND Pin=U?-T3
+Added Pin To Net: NetName=GND Pin=U?-T4
+Added Pin To Net: NetName=GND Pin=U?-T5
+Added Pin To Net: NetName=GND Pin=U?-T6
+Added Pin To Net: NetName=GND Pin=U?-T12
+Added Pin To Net: NetName=GND Pin=U?-W5
+Added Pin To Net: NetName=GND Pin=U?-W7
+Added Pin To Net: NetName=GND Pin=U?-W8
+Added Pin To Net: NetName=GND Pin=U?-W16
+Added Pin To Net: NetName=GND Pin=U?-W17
+Added Pin To Net: NetName=GND Pin=U?-W19
+Added Pin To Net: NetName=GND Pin=U?-Y7
+Added Pin To Net: NetName=GND Pin=U?-Y17
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-W2
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=SA0 Pin=U?-AA15
+Added Pin To Net: NetName=SA0 Pin=U??-R2
+Added Net: Name=SA0
+Added Pin To Net: NetName=SA1 Pin=U?-AA17
+Added Pin To Net: NetName=SA1 Pin=U??-P2
+Added Net: Name=SA1
+Added Pin To Net: NetName=SA2 Pin=U?-AA19
+Added Pin To Net: NetName=SA2 Pin=U??-N2
+Added Net: Name=SA2
+Added Pin To Net: NetName=SA3 Pin=U?-Y20
+Added Pin To Net: NetName=SA3 Pin=U??-N3
+Added Net: Name=SA3
+Added Pin To Net: NetName=SA4 Pin=U?-Y16
+Added Pin To Net: NetName=SA4 Pin=U??-M3
+Added Net: Name=SA4
+Added Pin To Net: NetName=SA5 Pin=U?-Y10
+Added Pin To Net: NetName=SA5 Pin=U??-F3
+Added Net: Name=SA5
+Added Pin To Net: NetName=SA6 Pin=U?-Y8
+Added Pin To Net: NetName=SA6 Pin=U??-E3
+Added Net: Name=SA6
+Added Pin To Net: NetName=SA7 Pin=U?-AA5
+Added Pin To Net: NetName=SA7 Pin=U??-E2
+Added Net: Name=SA7
+Added Pin To Net: NetName=SA8 Pin=U?-AA7
+Added Pin To Net: NetName=SA8 Pin=U??-D2
+Added Net: Name=SA8
+Added Pin To Net: NetName=SA9 Pin=U?-Y3
+Added Pin To Net: NetName=SA9 Pin=U??-C2
+Added Net: Name=SA9
+Added Pin To Net: NetName=SCKE0 Pin=U?-W14
+Added Pin To Net: NetName=SCKE0 Pin=U??-K3
+Added Net: Name=SCKE0
+Added Pin To Net: NetName=SCKE1 Pin=U?-Y11
+Added Pin To Net: NetName=SCKE1 Pin=U??-K4
+Added Net: Name=SCKE1
+Added Pin To Net: NetName=SCKN Pin=R?-2
+Added Pin To Net: NetName=SCKN Pin=U?-AB12
+Added Pin To Net: NetName=SCKN Pin=U??-J2
+Added Net: Name=SCKN
+Added Pin To Net: NetName=SCKP Pin=R?-1
+Added Pin To Net: NetName=SCKP Pin=U?-AC12
+Added Pin To Net: NetName=SCKP Pin=U??-J3
+Added Net: Name=SCKP
+Added Pin To Net: NetName=SCS0 Pin=U?-W13
+Added Pin To Net: NetName=SCS0 Pin=U??-L3
+Added Net: Name=SCS0
+Added Pin To Net: NetName=SCS1 Pin=U?-Y14
+Added Pin To Net: NetName=SCS1 Pin=U??-L4
+Added Net: Name=SCS1
+Added Pin To Net: NetName=SDQ0 Pin=U?-AB18
+Added Pin To Net: NetName=SDQ0 Pin=U??-P9
+Added Net: Name=SDQ0
+Added Pin To Net: NetName=SDQ1 Pin=U?-AC17
+Added Pin To Net: NetName=SDQ1 Pin=U??-M8
+Added Net: Name=SDQ1
+Added Pin To Net: NetName=SDQ2 Pin=U?-AB17
+Added Pin To Net: NetName=SDQ2 Pin=U??-N9
+Added Net: Name=SDQ2
+Added Pin To Net: NetName=SDQ3 Pin=U?-AC16
+Added Pin To Net: NetName=SDQ3 Pin=U??-N10
+Added Net: Name=SDQ3
+Added Pin To Net: NetName=SDQ4 Pin=U?-AB15
+Added Pin To Net: NetName=SDQ4 Pin=U??-N11
+Added Net: Name=SDQ4
+Added Pin To Net: NetName=SDQ5 Pin=U?-AB14
+Added Pin To Net: NetName=SDQ5 Pin=U??-M9
+Added Net: Name=SDQ5
+Added Pin To Net: NetName=SDQ6 Pin=U?-AC14
+Added Pin To Net: NetName=SDQ6 Pin=U??-M10
+Added Net: Name=SDQ6
+Added Pin To Net: NetName=SDQ7 Pin=U?-AC13
+Added Pin To Net: NetName=SDQ7 Pin=U??-M11
+Added Net: Name=SDQ7
+Added Pin To Net: NetName=SDQ8 Pin=U?-AB19
+Added Pin To Net: NetName=SDQ8 Pin=U??-R11
+Added Net: Name=SDQ8
+Added Pin To Net: NetName=SDQ9 Pin=U?-AC20
+Added Pin To Net: NetName=SDQ9 Pin=U??-T11
+Added Net: Name=SDQ9
+Added Pin To Net: NetName=SDQ10 Pin=U?-AC21
+Added Pin To Net: NetName=SDQ10 Pin=U??-T10
+Added Net: Name=SDQ10
+Added Pin To Net: NetName=SDQ11 Pin=U?-AB20
+Added Pin To Net: NetName=SDQ11 Pin=U??-R10
+Added Net: Name=SDQ11
+Added Pin To Net: NetName=SDQ12 Pin=U?-AB23
+Added Pin To Net: NetName=SDQ12 Pin=U??-T9
+Added Net: Name=SDQ12
+Added Pin To Net: NetName=SDQ13 Pin=U?-AA23
+Added Pin To Net: NetName=SDQ13 Pin=U??-R9
+Added Net: Name=SDQ13
+Added Pin To Net: NetName=SDQ14 Pin=U?-AA22
+Added Pin To Net: NetName=SDQ14 Pin=U??-T8
+Added Net: Name=SDQ14
+Added Pin To Net: NetName=SDQ15 Pin=U?-Y22
+Added Pin To Net: NetName=SDQ15 Pin=U??-R8
+Added Net: Name=SDQ15
+Added Pin To Net: NetName=SDQ16 Pin=U?-AC6
+Added Pin To Net: NetName=SDQ16 Pin=U??-E9
+Added Net: Name=SDQ16
+Added Pin To Net: NetName=SDQ17 Pin=U?-AB6
+Added Pin To Net: NetName=SDQ17 Pin=U??-F8
+Added Net: Name=SDQ17
+Added Pin To Net: NetName=SDQ18 Pin=U?-AC7
+Added Pin To Net: NetName=SDQ18 Pin=U??-F9
+Added Net: Name=SDQ18
+Added Pin To Net: NetName=SDQ19 Pin=U?-AB7
+Added Pin To Net: NetName=SDQ19 Pin=U??-D9
+Added Net: Name=SDQ19
+Added Pin To Net: NetName=SDQ20 Pin=U?-AC9
+Added Pin To Net: NetName=SDQ20 Pin=U??-F10
+Added Net: Name=SDQ20
+Added Pin To Net: NetName=SDQ21 Pin=U?-AB9
+Added Pin To Net: NetName=SDQ21 Pin=U??-E10
+Added Net: Name=SDQ21
+Added Pin To Net: NetName=SDQ22 Pin=U?-AC10
+Added Pin To Net: NetName=SDQ22 Pin=U??-F11
+Added Net: Name=SDQ22
+Added Pin To Net: NetName=SDQ23 Pin=U?-AB10
+Added Pin To Net: NetName=SDQ23 Pin=U??-E11
+Added Net: Name=SDQ23
+Added Pin To Net: NetName=SDQ24 Pin=U?-Y1
+Added Pin To Net: NetName=SDQ24 Pin=U??-C8
+Added Net: Name=SDQ24
+Added Pin To Net: NetName=SDQ25 Pin=U?-Y2
+Added Pin To Net: NetName=SDQ25 Pin=U??-B8
+Added Net: Name=SDQ25
+Added Pin To Net: NetName=SDQ26 Pin=U?-AA1
+Added Pin To Net: NetName=SDQ26 Pin=U??-C9
+Added Net: Name=SDQ26
+Added Pin To Net: NetName=SDQ27 Pin=U?-AA2
+Added Pin To Net: NetName=SDQ27 Pin=U??-B9
+Added Net: Name=SDQ27
+Added Pin To Net: NetName=SDQ28 Pin=U?-AC2
+Added Pin To Net: NetName=SDQ28 Pin=U??-B10
+Added Net: Name=SDQ28
+Added Pin To Net: NetName=SDQ29 Pin=U?-AC3
+Added Pin To Net: NetName=SDQ29 Pin=U??-B11
+Added Net: Name=SDQ29
+Added Pin To Net: NetName=SDQ30 Pin=U?-AC4
+Added Pin To Net: NetName=SDQ30 Pin=U??-C11
+Added Net: Name=SDQ30
+Added Pin To Net: NetName=SDQ31 Pin=U?-AB4
+Added Pin To Net: NetName=SDQ31 Pin=U??-C10
+Added Net: Name=SDQ31
+Added Pin To Net: NetName=SDQM0 Pin=U?-AC18
+Added Pin To Net: NetName=SDQM0 Pin=U??-L8
+Added Net: Name=SDQM0
+Added Pin To Net: NetName=SDQM1 Pin=U?-Y23
+Added Pin To Net: NetName=SDQM1 Pin=U??-G8
+Added Net: Name=SDQM1
+Added Pin To Net: NetName=SDQM2 Pin=U?-AB11
+Added Pin To Net: NetName=SDQM2 Pin=U??-P8
+Added Net: Name=SDQM2
+Added Pin To Net: NetName=SDQM3 Pin=U?-AB5
+Added Pin To Net: NetName=SDQM3 Pin=U??-D8
+Added Net: Name=SDQM3
+Added Pin To Net: NetName=SDQS0N Pin=U?-AB16
+Added Pin To Net: NetName=SDQS0N Pin=U??-L11
+Added Net: Name=SDQS0N
+Added Pin To Net: NetName=SDQS0P Pin=U?-AC15
+Added Pin To Net: NetName=SDQS0P Pin=U??-L10
+Added Net: Name=SDQS0P
+Added Pin To Net: NetName=SDQS1N Pin=U?-AB22
+Added Pin To Net: NetName=SDQS1N Pin=U??-P11
+Added Net: Name=SDQS1N
+Added Pin To Net: NetName=SDQS1P Pin=U?-AC22
+Added Pin To Net: NetName=SDQS1P Pin=U??-P10
+Added Net: Name=SDQS1P
+Added Pin To Net: NetName=SDQS2N Pin=U?-AC8
+Added Pin To Net: NetName=SDQS2N Pin=U??-G11
+Added Net: Name=SDQS2N
+Added Pin To Net: NetName=SDQS2P Pin=U?-AB8
+Added Pin To Net: NetName=SDQS2P Pin=U??-G10
+Added Net: Name=SDQS2P
+Added Pin To Net: NetName=SDQS3N Pin=U?-AB2
+Added Pin To Net: NetName=SDQS3N Pin=U??-D11
+Added Net: Name=SDQS3N
+Added Pin To Net: NetName=SDQS3P Pin=U?-AB1
+Added Pin To Net: NetName=SDQS3P Pin=U??-D10
+Added Net: Name=SDQS3P
+Added Pin To Net: NetName=SODT0 Pin=U?-AA13
+Added Pin To Net: NetName=SODT0 Pin=U??-J8
+Added Net: Name=SODT0
+Added Pin To Net: NetName=SVREF_DQ Pin=C?-2
+Added Pin To Net: NetName=SVREF_DQ Pin=R?-1
+Added Pin To Net: NetName=SVREF_DQ Pin=R?-2
+Added Pin To Net: NetName=SVREF_DQ Pin=U??-J11
+Added Net: Name=SVREF_DQ
+Added Pin To Net: NetName=SVREF Pin=C?-2
+Added Pin To Net: NetName=SVREF Pin=C?-2
+Added Pin To Net: NetName=SVREF Pin=C?-2
+Added Pin To Net: NetName=SVREF Pin=C?-2
+Added Pin To Net: NetName=SVREF Pin=R?-1
+Added Pin To Net: NetName=SVREF Pin=R?-2
+Added Pin To Net: NetName=SVREF Pin=U?-V6
+Added Pin To Net: NetName=SVREF Pin=U??-H4
+Added Net: Name=SVREF
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=C?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=R?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=R?-2
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-A8
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-A9
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-A11
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-C12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-D4
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-D5
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-D6
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-E8
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-E12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-F2
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-G2
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-G5
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-G6
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-G12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-H3
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-H5
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-H6
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-H8
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-H9
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-H11
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-H12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-J5
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-J6
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-J9
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-J10
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-K5
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-K6
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-K8
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-K11
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-K12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-L2
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-L5
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-L12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-M2
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-N8
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-N12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-P4
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-P5
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-P6
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-R12
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-U8
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-U8
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-U9
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-U11
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-U13
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-U14
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-U16
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-V9
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-V10
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-V11
+Added Pin To Net: NetName=VCC_DRAM Pin=U?-V15
+Added Net: Name=VCC_DRAM
+Added Pin To Net: NetName=VDD18_DRAM Pin=C?-2
+Added Pin To Net: NetName=VDD18_DRAM Pin=C?-2
+Added Pin To Net: NetName=VDD18_DRAM Pin=C?-2
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-A3
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-A4
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-A5
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-A6
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-A10
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-U3
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-U4
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-U5
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-U6
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-U10
+Added Pin To Net: NetName=VDD18_DRAM Pin=U?-W22
+Added Net: Name=VDD18_DRAM
+Added Class: Name=Audio and HDMI
+Added Class: Name=AWH6
+Added Class: Name=EMMC
+Added Class: Name=Low Power DDR3 2GB
+Added Class: Name=Power
+Added Class: Name=TF-Card and USB
+Added Class: Name=Wi-Fi and Bluetooth
+Add Differential Pair: Number of nets in differential pair SCKN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SCKP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS0N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS0P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS1N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS1P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS2N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS2P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS3N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS3P is 1 instead of 2
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

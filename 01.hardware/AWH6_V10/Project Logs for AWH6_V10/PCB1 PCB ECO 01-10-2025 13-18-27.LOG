@@ -1,0 +1,53 @@
+Change Net Name : Old Net Name=SDQS0N New Net Name=SDQS0_N
+Change Net Name : Old Net Name=SDQS0P New Net Name=SDQS0_P
+Add Net: Net with name "NetR?_2" already exists
+Add Differential Pair: Number of nets in differential pair SCKN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SCKP is 1 instead of 2
+Added Differential Pair: Name=SDQS0
+Add Differential Pair: Number of nets in differential pair SDQS1N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS1P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS2N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS2P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS3N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SDQS3P is 1 instead of 2
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-10uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? 1uF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C? NC-100nF
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 240O
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 2kO
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 2kO
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 1.5kO
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 2kO
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R? 240O
+Added Member To Class: ClassName=AWH6 Member=Component U?? Allwinner_H6
+Added Member To Class: ClassName=AWH6 Member=Component U?? Allwinner_H6
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component U? LPDDR3-2G
+Added Member To Class: ClassName=TF-Card and USB Member=Component USB?? USB-303WSD-BRY

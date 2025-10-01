@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=AWH6|SchDesignator=AWH6|FileName=MPU.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=MPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=EMMC|SchDesignator=EMMC|FileName=EMMC.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=EMMC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=LPDDR3|SchDesignator=LPDDR3|FileName=LPDDR3.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LPDDR3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
