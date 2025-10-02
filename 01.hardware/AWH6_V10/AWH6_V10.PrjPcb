@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QZKIFJOY
 
 [Document2]
-DocumentPath=sch\EMMC.SchDoc
+DocumentPath=sch\eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ODHCJTTW
 
 [Document5]
-DocumentPath=sch\MPU.SchDoc
+DocumentPath=sch\MPU_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
