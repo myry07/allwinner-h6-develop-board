@@ -1,0 +1,1842 @@
+Removed Pin From Net: NetName=VDD18_DRAM Pin=C19-2
+Removed Pin From Net: NetName=VDD18_DRAM Pin=C20-2
+Removed Member From Class: ClassName=Wi-Fi and Bluetooth Member=U1
+Added Component: Designator=C33(C0402)
+Added Component: Designator=C34(C0402)
+Added Component: Designator=C35(C0402)
+Added Component: Designator=C36(C0402)
+Added Component: Designator=C37(C0402)
+Added Component: Designator=C38(C0603)
+Added Component: Designator=C39(C0402)
+Added Component: Designator=C40(C0402)
+Added Component: Designator=C41(C0402)
+Added Component: Designator=C42(C0402)
+Added Component: Designator=C43(C0402)
+Added Component: Designator=C44(C0402)
+Added Component: Designator=C45(C0402)
+Added Component: Designator=C46(C0402)
+Added Component: Designator=C47(C0402)
+Added Component: Designator=C48(C0402)
+Added Component: Designator=C49(C0402)
+Added Component: Designator=C50(C0402)
+Added Component: Designator=C51(C0402)
+Added Component: Designator=C52(C0603)
+Added Component: Designator=C53(C0603)
+Added Component: Designator=C54(C0402)
+Added Component: Designator=C55(C0603)
+Added Component: Designator=C56(C0603)
+Added Component: Designator=C57(C0402)
+Added Component: Designator=C58(C0603)
+Added Component: Designator=C59(C0402)
+Added Component: Designator=C60(C0402)
+Added Component: Designator=C61(C0603)
+Added Component: Designator=C62(C0603)
+Added Component: Designator=C63(C0603)
+Added Component: Designator=C64(C0603)
+Added Component: Designator=C65(C0603)
+Added Component: Designator=C66(C0603)
+Added Component: Designator=C67(C0603)
+Added Component: Designator=C68(C0603)
+Added Component: Designator=C69(C0603)
+Added Component: Designator=C70(C0603)
+Added Component: Designator=C71(C0603)
+Added Component: Designator=C72(C0402)
+Added Component: Designator=C73(C0402)
+Added Component: Designator=C74(C0402)
+Added Component: Designator=C75(C0402)
+Added Component: Designator=C76(C0603)
+Added Component: Designator=C77(C0603)
+Added Component: Designator=C78(C0603)
+Added Component: Designator=C79(C0603)
+Added Component: Designator=C80(C0603)
+Added Component: Designator=C81(C0402)
+Added Component: Designator=C82(C0603)
+Added Component: Designator=C83(C0603)
+Added Component: Designator=C84(C0402)
+Added Component: Designator=C85(C0603)
+Added Component: Designator=C86(C0402)
+Added Component: Designator=C87(C0603)
+Added Component: Designator=D1(DFN2510-10_L2.5-W1.0-P0.50-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AZ1045-04F.R7G/331915.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "0.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ESD 5V?? ??????:3.5A@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-5;IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMAZING(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "3.5A@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "30W@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN2510-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C356811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DFN2510-10_L2.5-W1.0-P0.50-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AZ1045-04F.R7G/331915.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "0.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ESD 5V?? ??????:3.5A@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-5;IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMAZING(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "3.5A@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "30W@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN2510-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C356811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-323_L1.8-W1.3-LS2.5-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Rectified"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/1N5819WS/213850.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "1N5819WS_C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??:40V ??:1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hottech(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Non-Repetitive Peak Forward Surge Current"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse(Vr)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward(Vf@If)"; Value = "600mV@1A"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD-323_L1.8-W1.3-LS2.5-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Rectified"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/1N5819WS/213850.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "1N5819WS_C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??:40V ??:1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hottech(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Non-Repetitive Peak Forward Surge Current"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse(Vr)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward(Vf@If)"; Value = "600mV@1A"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SMA_L4.3-W2.6-LS5.2-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SMAJ5.0A/84493.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SMAJ5.0A_C83329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??/V 5V-440V ?????? 400W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SMAJ5.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-65?~+150?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "43.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "400W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "800uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DO-214AC(SMA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C83329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SMAJ5.0A-C83329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "6.4V"; VariantName = "[No Variations]"
+Added Component: Designator=D6(DFN2510-10_L2.5-W1.0-P0.50-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AZ1045-04F.R7G/331915.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "0.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ESD 5V?? ??????:3.5A@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-5;IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMAZING(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "3.5A@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "30W@8/20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN2510-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C356811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(RF-SMD_FRF05002-JSS103M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Board Side"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/U.FL-R-SMT-1(80)/89553.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "U.FL-R-SMT-1(80)_C88374"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "IPEX ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HRS(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "U.FL-R-SMT-1(80)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40?~+90?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "IPEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C88374"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "U.FL-R-SMT-1(80)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6GHz"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND-SMD_L6.0-W6.0_FNR60XXS)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190327/C167925_9EFF0AABC4CA629C2CC95961DBF7D39D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "75mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FNR6020S4R7MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7uH ±20% 3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "cjiang(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FNR6020S4R7MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current (Isat)"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,6x6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C168008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FNR6020S4R7MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uH"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND-SMD_L4.0-W4.0)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SLW4030S1R0NST/207399.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1uH ±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunltech(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,4x4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C206354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND-SMD_L4.0-W4.0)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SLW4030S1R0NST/207399.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1uH ±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunltech(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,4x4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C206354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=L4(IND-SMD_L4.0-W4.0)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SLW4030S1R0NST/207399.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1uH ±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunltech(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,4x4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C206354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=L5(IND-SMD_L4.0-W4.0)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SLW4030S1R0NST/207399.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1uH ±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunltech(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,4x4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C206354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=L6(IND-SMD_L4.0-W4.0)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SLW4030S1R0NST/207399.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1uH ±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunltech(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,4x4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C206354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain(Id)"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/BSN20/117410.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BSN20_C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Threshold Voltage (Vgs(th))"; Value = "1.5V@250uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance(Ciss)"; Value = "40pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1?N?? ??:50V ??:0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHIKUES(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1?N??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Capacitance(Coss)"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "10O@2.75V,0.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Transfer Capacitance (Crss@Vds)"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "N??"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain(Id)"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/BSN20/117410.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BSN20_C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Threshold Voltage (Vgs(th))"; Value = "1.5V@250uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance(Ciss)"; Value = "40pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1?N?? ??:50V ??:0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHIKUES(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1?N??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Capacitance(Coss)"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "10O@2.75V,0.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Transfer Capacitance (Crss@Vds)"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "N??"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain(Id)"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/BSN20/117410.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BSN20_C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Threshold Voltage (Vgs(th))"; Value = "1.5V@250uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance(Ciss)"; Value = "40pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1?N?? ??:50V ??:0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHIKUES(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1?N??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Capacitance(Coss)"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "10O@2.75V,0.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Transfer Capacitance (Crss@Vds)"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "N??"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0402)
+Added Component: Designator=R9(R0402)
+Added Component: Designator=R10(R0402)
+Added Component: Designator=R11(R0402)
+Added Component: Designator=R12(R0402)
+Added Component: Designator=R13(R0402)
+Added Component: Designator=R14(R0402)
+Added Component: Designator=R15(R0402)
+Added Component: Designator=R16(R0402)
+Added Component: Designator=R17(R0402)
+Added Component: Designator=R18(R0402)
+Added Component: Designator=R19(R0402)
+Added Component: Designator=R20(R0402)
+Added Component: Designator=R21(R0402)
+Added Component: Designator=R22(R0402)
+Added Component: Designator=R23(R0402)
+Added Component: Designator=R24(R0402)
+Added Component: Designator=R25(R0402)
+Added Component: Designator=R26(R0402)
+Added Component: Designator=R27(R0402)
+Added Component: Designator=R28(R0402)
+Added Component: Designator=R29(R0402)
+Added Component: Designator=R30(R0402)
+Added Component: Designator=R31(R0402)
+Added Component: Designator=R32(R0402)
+Added Component: Designator=R33(R0402)
+Added Component: Designator=R34(R0402)
+Added Component: Designator=R35(R0402)
+Added Component: Designator=R36(R0402)
+Added Component: Designator=R37(R0402)
+Added Component: Designator=R38(R0402)
+Added Component: Designator=R39(R0402)
+Added Component: Designator=R40(R0402)
+Added Component: Designator=R41(R0402)
+Added Component: Designator=R42(R0402)
+Added Component: Designator=R43(R0402)
+Added Component: Designator=R44(R0402)
+Added Component: Designator=R45(R0402)
+Added Component: Designator=R46(R0402)
+Added Component: Designator=R47(R0402)
+Added Component: Designator=R48(R0402)
+Added Component: Designator=R49(R0402)
+Added Component: Designator=R50(R0402)
+Added Component: Designator=R51(R0402)
+Added Component: Designator=R52(R0402)
+Added Component: Designator=R53(R0402)
+Added Component: Designator=R54(R0402)
+Added Component: Designator=R55(R0402)
+Added Component: Designator=R56(R0402)
+Added Component: Designator=R57(R0402)
+Added Component: Designator=R58(R0402)
+Added Component: Designator=R59(R0402)
+Added Component: Designator=R60(R0402)
+Added Component: Designator=R61(R0402)
+Added Component: Designator=R62(R0402)
+Added Component: Designator=R63(R0402)
+Added Component: Designator=R64(R0402)
+Added Component: Designator=U7(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U8(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U9(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U10(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U11(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U12(BGA451_ALLWINNER_H6)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Added Component: Designator=U13(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control Input Logic"; Value = "Active High"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SY6280AAC/56162.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SY6280AAC_C55136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Over Temperature Protection;Overcurrent Protection(OCP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silergy(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature	-"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "80mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C55136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Side Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.4V~5.5V"; VariantName = "[No Variations]"
+Added Component: Designator=U14(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U15(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U16(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U17(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U18(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U19(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U20(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U21(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U22(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U23(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U24(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U25(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U26(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control Input Logic"; Value = "Active High"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SY6280AAC/56162.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SY6280AAC_C55136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Over Temperature Protection;Overcurrent Protection(OCP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silergy(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature	-"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "80mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C55136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Side Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.4V~5.5V"; VariantName = "[No Variations]"
+Added Component: Designator=U27(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U28(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U29(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control Input Logic"; Value = "Active High"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SY6280AAC/56162.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SY6280AAC_C55136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Over Temperature Protection;Overcurrent Protection(OCP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silergy(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature	-"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "80mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C55136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Side Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.4V~5.5V"; VariantName = "[No Variations]"
+Added Component: Designator=X1(CRYSTAL-SMD_4P-L3.2-W2.5-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/TAXM26M4RLBCCT2T/175432.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TAXM26M4RLBCCT2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "80O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "26MHz ±10ppm 20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YJX(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TAXM26M4RLBCCT2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Normal temperature Frequency Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD3225-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C164050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SMD-3225_4P26MHZ20PF10PPM-40~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "26MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AUDIO1-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=VDD18_DRAM Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C80-1
+Added Pin To Net: NetName=GND Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-8
+Added Pin To Net: NetName=GND Pin=CN1-11
+Added Pin To Net: NetName=GND Pin=CN1-17
+Added Pin To Net: NetName=GND Pin=CN1-18
+Added Pin To Net: NetName=GND Pin=CN1-20
+Added Pin To Net: NetName=GND Pin=CN1-21
+Added Pin To Net: NetName=GND Pin=CN1-22
+Added Pin To Net: NetName=GND Pin=CN1-23
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D1-8
+Added Pin To Net: NetName=GND Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D2-8
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-3
+Added Pin To Net: NetName=GND Pin=D6-8
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=GND Pin=R55-2
+Added Pin To Net: NetName=GND Pin=R57-1
+Added Pin To Net: NetName=GND Pin=R60-2
+Added Pin To Net: NetName=GND Pin=R63-2
+Added Pin To Net: NetName=GND Pin=U3-A6
+Added Pin To Net: NetName=GND Pin=U3-C4
+Added Pin To Net: NetName=GND Pin=U3-E7
+Added Pin To Net: NetName=GND Pin=U3-G5
+Added Pin To Net: NetName=GND Pin=U3-H10
+Added Pin To Net: NetName=GND Pin=U3-J5
+Added Pin To Net: NetName=GND Pin=U3-K8
+Added Pin To Net: NetName=GND Pin=U3-N2
+Added Pin To Net: NetName=GND Pin=U3-N5
+Added Pin To Net: NetName=GND Pin=U3-P4
+Added Pin To Net: NetName=GND Pin=U3-P6
+Added Pin To Net: NetName=VDD18_DRAM Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-37
+Added Pin To Net: NetName=GND Pin=U4-38
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-42
+Added Pin To Net: NetName=GND Pin=U4-48
+Added Pin To Net: NetName=GND Pin=U4-49
+Added Pin To Net: NetName=GND Pin=U4-54
+Added Pin To Net: NetName=GND Pin=U4-57
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-20
+Added Pin To Net: NetName=GND Pin=U6-31
+Added Pin To Net: NetName=GND Pin=U6-33
+Added Pin To Net: NetName=GND Pin=U6-36
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U14-1
+Added Pin To Net: NetName=GND Pin=U15-1
+Added Pin To Net: NetName=GND Pin=U16-1
+Added Pin To Net: NetName=GND Pin=U17-1
+Added Pin To Net: NetName=GND Pin=U18-1
+Added Pin To Net: NetName=GND Pin=U19-1
+Added Pin To Net: NetName=GND Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U21-1
+Added Pin To Net: NetName=GND Pin=U22-1
+Added Pin To Net: NetName=GND Pin=U23-1
+Added Pin To Net: NetName=GND Pin=U24-1
+Added Pin To Net: NetName=GND Pin=U25-1
+Added Pin To Net: NetName=GND Pin=U26-2
+Added Pin To Net: NetName=GND Pin=U27-1
+Added Pin To Net: NetName=GND Pin=U28-1
+Added Pin To Net: NetName=GND Pin=U29-2
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-7
+Added Pin To Net: NetName=GND Pin=USB1-13
+Added Pin To Net: NetName=GND Pin=USB1-16
+Added Pin To Net: NetName=GND Pin=USB1-19
+Added Pin To Net: NetName=GND Pin=USB1-20
+Added Pin To Net: NetName=GND Pin=USB1-21
+Added Pin To Net: NetName=GND Pin=USB1-22
+Added Pin To Net: NetName=GND Pin=USB2-4
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-6
+Added Pin To Net: NetName=GND Pin=USB2-7
+Added Pin To Net: NetName=GND Pin=USBC1-1
+Added Pin To Net: NetName=GND Pin=USBC1-1
+Added Pin To Net: NetName=GND Pin=USBC1-2
+Added Pin To Net: NetName=GND Pin=USBC1-2
+Added Pin To Net: NetName=GND Pin=USBC1-3
+Added Pin To Net: NetName=GND Pin=USBC1-4
+Added Pin To Net: NetName=GND Pin=USBC1-A1
+Added Pin To Net: NetName=GND Pin=USBC1-A12
+Added Pin To Net: NetName=GND Pin=USBC1-B1
+Added Pin To Net: NetName=GND Pin=USBC1-B12
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Change Net Name : Old Net Name=VDD18_DRAM New Net Name=BLDO1
+Added Pin To Net: NetName=ALDO1 Pin=C65-2
+Added Pin To Net: NetName=ALDO1 Pin=R44-2
+Added Pin To Net: NetName=ALDO1 Pin=R45-2
+Added Pin To Net: NetName=ALDO1 Pin=R47-2
+Added Pin To Net: NetName=ALDO1 Pin=U4-28
+Added Net: Name=ALDO1
+Added Pin To Net: NetName=ALDO2 Pin=C66-2
+Added Pin To Net: NetName=ALDO2 Pin=U4-31
+Added Net: Name=ALDO2
+Added Pin To Net: NetName=ALDO3 Pin=C67-2
+Added Pin To Net: NetName=ALDO3 Pin=C78-2
+Added Pin To Net: NetName=ALDO3 Pin=D3-2
+Added Pin To Net: NetName=ALDO3 Pin=Q3-1
+Added Pin To Net: NetName=ALDO3 Pin=R10-2
+Added Pin To Net: NetName=ALDO3 Pin=R13-2
+Added Pin To Net: NetName=ALDO3 Pin=R16-2
+Added Pin To Net: NetName=ALDO3 Pin=R48-2
+Added Pin To Net: NetName=ALDO3 Pin=R53-2
+Added Pin To Net: NetName=ALDO3 Pin=U4-19
+Added Pin To Net: NetName=ALDO3 Pin=U4-32
+Added Pin To Net: NetName=ALDO3 Pin=U12-E14
+Added Net: Name=ALDO3
+Added Pin To Net: NetName=AP_NMI Pin=R43-2
+Added Pin To Net: NetName=AP_NMI Pin=U4-16
+Added Net: Name=AP_NMI
+Added Pin To Net: NetName=AP_RESET Pin=C57-2
+Added Pin To Net: NetName=AP_RESET Pin=U4-15
+Added Net: Name=AP_RESET
+Added Pin To Net: NetName=AP_WAKE_BT Pin=R31-2
+Added Pin To Net: NetName=AP_WAKE_BT Pin=U6-6
+Added Net: Name=AP_WAKE_BT
+Added Pin To Net: NetName=BLDO2 Pin=C73-2
+Added Pin To Net: NetName=BLDO2 Pin=R49-1
+Added Pin To Net: NetName=BLDO2 Pin=U4-1
+Added Pin To Net: NetName=BLDO2 Pin=U12-C19
+Added Net: Name=BLDO2
+Added Pin To Net: NetName=BLDO3 Pin=C74-2
+Added Pin To Net: NetName=BLDO3 Pin=R50-2
+Added Pin To Net: NetName=BLDO3 Pin=U4-4
+Added Net: Name=BLDO3
+Added Pin To Net: NetName=BLDO4 Pin=C75-2
+Added Pin To Net: NetName=BLDO4 Pin=U4-5
+Added Net: Name=BLDO4
+Added Pin To Net: NetName=BP_WAKE_BT Pin=U6-7
+Added Net: Name=BP_WAKE_BT
+Added Pin To Net: NetName=BT_PCM_CLK Pin=U6-26
+Added Net: Name=BT_PCM_CLK
+Add Net: Net with name "BT_PCM_CLK" already exists
+Added Pin To Net: NetName=BT_PCM_DIN Pin=U2-L3
+Added Net: Name=BT_PCM_DIN
+Add Net: Net with name "BT_PCM_DIN" already exists
+Added Pin To Net: NetName=BT_PCM_DOUT Pin=U6-25
+Added Net: Name=BT_PCM_DOUT
+Add Net: Net with name "BT_PCM_DOUT" already exists
+Added Pin To Net: NetName=BT_PCM_SYNC Pin=U6-28
+Added Net: Name=BT_PCM_SYNC
+Add Net: Net with name "BT_PCM_SYNC" already exists
+Added Pin To Net: NetName=BT_REG_ON Pin=R23-2
+Added Pin To Net: NetName=BT_REG_ON Pin=R32-2
+Added Net: Name=BT_REG_ON
+Added Pin To Net: NetName=BT_UART_CTS Pin=U2-H3
+Added Net: Name=BT_UART_CTS
+Add Net: Net with name "BT_UART_CTS" already exists
+Added Pin To Net: NetName=BT_UART_RTS Pin=U2-K1
+Added Net: Name=BT_UART_RTS
+Add Net: Net with name "BT_UART_RTS" already exists
+Added Pin To Net: NetName=BT_UART_RX Pin=R19-1
+Added Pin To Net: NetName=BT_UART_RX Pin=U6-43
+Added Net: Name=BT_UART_RX
+Add Net: Net with name "BT_UART_RX" already exists
+Added Pin To Net: NetName=BT_UART_TX Pin=U2-J6
+Added Net: Name=BT_UART_TX
+Add Net: Net with name "BT_UART_TX" already exists
+Added Pin To Net: NetName=CLDO2 Pin=C79-2
+Added Pin To Net: NetName=CLDO2 Pin=C80-2
+Added Pin To Net: NetName=CLDO2 Pin=R51-2
+Added Pin To Net: NetName=CLDO2 Pin=U4-17
+Added Pin To Net: NetName=CLDO2 Pin=U4-20
+Added Net: Name=CLDO2
+Added Pin To Net: NetName=CVDD_CPUFB Pin=U4-39
+Added Pin To Net: NetName=CVDD_CPUFB Pin=U4-40
+Added Pin To Net: NetName=CVDD_CPUFB Pin=U4-47
+Added Net: Name=CVDD_CPUFB
+Added Pin To Net: NetName=DDC_CDC_EN Pin=U2-E11
+Added Net: Name=DDC_CDC_EN
+Add Net: Net with name "DDC_CDC_EN" already exists
+Added Pin To Net: NetName=EMMC_CLK Pin=U3-M6
+Added Net: Name=EMMC_CLK
+Add Net: Net with name "EMMC_CLK" already exists
+Added Pin To Net: NetName=EMMC_CMD Pin=R37-1
+Added Pin To Net: NetName=EMMC_CMD Pin=U3-M5
+Added Net: Name=EMMC_CMD
+Add Net: Net with name "EMMC_CMD" already exists
+Added Pin To Net: NetName=EMMC_D0 Pin=U2-N22
+Added Net: Name=EMMC_D0
+Add Net: Net with name "EMMC_D0" already exists
+Added Pin To Net: NetName=EMMC_D1 Pin=U3-A4
+Added Net: Name=EMMC_D1
+Add Net: Net with name "EMMC_D1" already exists
+Added Pin To Net: NetName=EMMC_D2 Pin=U3-A5
+Added Net: Name=EMMC_D2
+Add Net: Net with name "EMMC_D2" already exists
+Added Pin To Net: NetName=EMMC_D3 Pin=U2-R23
+Added Net: Name=EMMC_D3
+Add Net: Net with name "EMMC_D3" already exists
+Added Pin To Net: NetName=EMMC_D4 Pin=U2-T22
+Added Net: Name=EMMC_D4
+Add Net: Net with name "EMMC_D4" already exists
+Added Pin To Net: NetName=EMMC_D5 Pin=U3-B4
+Added Net: Name=EMMC_D5
+Add Net: Net with name "EMMC_D5" already exists
+Added Pin To Net: NetName=EMMC_D6 Pin=U3-B5
+Added Pin To Net: NetName=EMMC_D6 Pin=U3-C5
+Added Net: Name=EMMC_D6
+Add Net: Net with name "EMMC_D6" already exists
+Added Pin To Net: NetName=EMMC_D7 Pin=U3-B6
+Added Net: Name=EMMC_D7
+Add Net: Net with name "EMMC_D7" already exists
+Added Pin To Net: NetName=EMMC_DS Pin=U2-R20
+Added Net: Name=EMMC_DS
+Add Net: Net with name "EMMC_DS" already exists
+Added Pin To Net: NetName=EMMC_RST Pin=U3-K5
+Added Net: Name=EMMC_RST
+Add Net: Net with name "EMMC_RST" already exists
+Added Pin To Net: NetName=HCEC Pin=Q3-2
+Added Pin To Net: NetName=HCEC Pin=R16-1
+Added Net: Name=HCEC
+Added Pin To Net: NetName=HDMI_CEC Pin=U2-E9
+Added Net: Name=HDMI_CEC
+Add Net: Net with name "HDMI_CEC" already exists
+Added Pin To Net: NetName=HDMI_SCL Pin=CN1-15
+Added Pin To Net: NetName=HDMI_SCL Pin=Q1-3
+Added Pin To Net: NetName=HDMI_SCL Pin=R11-1
+Added Pin To Net: NetName=HDMI_SCL Pin=U10-2
+Added Net: Name=HDMI_SCL
+Add Net: Net with name "HDMI_SCL" already exists
+Added Pin To Net: NetName=HDMI_SDA Pin=U2-F7
+Added Net: Name=HDMI_SDA
+Add Net: Net with name "HDMI_SDA" already exists
+Added Pin To Net: NetName=HHPD Pin=C35-2
+Added Pin To Net: NetName=HHPD Pin=R15-1
+Added Net: Name=HHPD
+Add Net: Net with name "HHPD" already exists
+Added Pin To Net: NetName=HOST3_N Pin=U24-2
+Added Pin To Net: NetName=HOST3_N Pin=USB1-2
+Added Net: Name=HOST3_N
+Add Net: Net with name "HOST3_N" already exists
+Added Pin To Net: NetName=HOST3_P Pin=U12-B12
+Added Net: Name=HOST3_P
+Add Net: Net with name "HOST3_P" already exists
+Added Pin To Net: NetName=HSCL Pin=Q1-2
+Added Pin To Net: NetName=HSCL Pin=R10-1
+Added Net: Name=HSCL
+Added Pin To Net: NetName=HSDA Pin=Q2-2
+Added Pin To Net: NetName=HSDA Pin=R13-1
+Added Net: Name=HSDA
+Added Pin To Net: NetName=HTX0_N Pin=CN1-9
+Added Pin To Net: NetName=HTX0_N Pin=D2-2
+Added Pin To Net: NetName=HTX0_N Pin=D2-9
+Added Net: Name=HTX0_N
+Add Net: Net with name "HTX0_N" already exists
+Added Pin To Net: NetName=HTX0_P Pin=CN1-7
+Added Pin To Net: NetName=HTX0_P Pin=D2-1
+Added Pin To Net: NetName=HTX0_P Pin=D2-10
+Added Net: Name=HTX0_P
+Add Net: Net with name "HTX0_P" already exists
+Added Pin To Net: NetName=HTX1_N Pin=CN1-6
+Added Pin To Net: NetName=HTX1_N Pin=D1-5
+Added Pin To Net: NetName=HTX1_N Pin=D1-6
+Added Net: Name=HTX1_N
+Add Net: Net with name "HTX1_N" already exists
+Added Pin To Net: NetName=HTX1_P Pin=U12-A18
+Added Net: Name=HTX1_P
+Add Net: Net with name "HTX1_P" already exists
+Added Pin To Net: NetName=HTX2_N Pin=U12-B17
+Added Net: Name=HTX2_N
+Add Net: Net with name "HTX2_N" already exists
+Added Pin To Net: NetName=HTX2_P Pin=CN1-1
+Added Pin To Net: NetName=HTX2_P Pin=D1-1
+Added Pin To Net: NetName=HTX2_P Pin=D1-10
+Added Net: Name=HTX2_P
+Add Net: Net with name "HTX2_P" already exists
+Added Pin To Net: NetName=HTXC_N Pin=CN1-12
+Added Pin To Net: NetName=HTXC_N Pin=D2-5
+Added Pin To Net: NetName=HTXC_N Pin=D2-6
+Added Net: Name=HTXC_N
+Add Net: Net with name "HTXC_N" already exists
+Added Pin To Net: NetName=HTXC_P Pin=U12-A20
+Added Net: Name=HTXC_P
+Add Net: Net with name "HTXC_P" already exists
+Added Pin To Net: NetName=LINEOUTL Pin=C34-2
+Added Net: Name=LINEOUTL
+Add Net: Net with name "LINEOUTL" already exists
+Added Pin To Net: NetName=LINEOUTR Pin=U12-D1
+Added Net: Name=LINEOUTR
+Add Net: Net with name "LINEOUTR" already exists
+Added Pin To Net: NetName=NetAUDIO1_2 Pin=AUDIO1-2
+Added Pin To Net: NetName=NetAUDIO1_2 Pin=AUDIO1-4
+Added Pin To Net: NetName=NetAUDIO1_2 Pin=R9-1
+Added Net: Name=NetAUDIO1_2
+Added Pin To Net: NetName=NetAUDIO1_3 Pin=AUDIO1-3
+Added Pin To Net: NetName=NetAUDIO1_3 Pin=R8-1
+Added Net: Name=NetAUDIO1_3
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=R8-2
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=R9-2
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=JP1-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=U6-2
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=L1-2
+Added Pin To Net: NetName=NetC39_1 Pin=U6-23
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC83_2 Pin=C83-2
+Added Pin To Net: NetName=NetC83_2 Pin=R52-2
+Added Pin To Net: NetName=NetC83_2 Pin=R53-1
+Added Pin To Net: NetName=NetC83_2 Pin=R56-2
+Added Pin To Net: NetName=NetC83_2 Pin=U5-4
+Added Pin To Net: NetName=NetC83_2 Pin=U23-2
+Added Net: Name=NetC83_2
+Added Pin To Net: NetName=NetCN1_19 Pin=CN1-19
+Added Pin To Net: NetName=NetCN1_19 Pin=R15-2
+Added Pin To Net: NetName=NetCN1_19 Pin=U8-2
+Added Net: Name=NetCN1_19
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R17-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U6-21
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U4-43
+Added Pin To Net: NetName=NetL2_1 Pin=U4-44
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U4-35
+Added Pin To Net: NetName=NetL3_1 Pin=U4-36
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=U4-50
+Added Pin To Net: NetName=NetL4_1 Pin=U4-51
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=U4-7
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=U4-12
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R12-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U6-34
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=U6-24
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=R30-2
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=U2-F2
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U2-N20
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U2-J2
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U2-R19
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=USBC1-A5
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=USBC1-B5
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=U4-26
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR46_2 Pin=U4-25
+Added Net: Name=NetR46_2
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U13-3
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR59_1 Pin=R59-1
+Added Pin To Net: NetName=NetR59_1 Pin=U26-4
+Added Net: Name=NetR59_1
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=U26-3
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=U29-4
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetR63_1 Pin=R63-1
+Added Pin To Net: NetName=NetR63_1 Pin=U29-3
+Added Net: Name=NetR63_1
+Added Pin To Net: NetName=PMU_SCK Pin=R45-1
+Added Pin To Net: NetName=PMU_SCK Pin=U4-23
+Added Net: Name=PMU_SCK
+Added Pin To Net: NetName=PMU_SDA Pin=R44-1
+Added Pin To Net: NetName=PMU_SDA Pin=U4-24
+Added Net: Name=PMU_SDA
+Added Pin To Net: NetName=PS Pin=C52-2
+Added Pin To Net: NetName=PS Pin=C53-2
+Added Pin To Net: NetName=PS Pin=C54-2
+Added Pin To Net: NetName=PS Pin=C55-2
+Added Pin To Net: NetName=PS Pin=C58-2
+Added Pin To Net: NetName=PS Pin=C62-2
+Added Pin To Net: NetName=PS Pin=C64-2
+Added Pin To Net: NetName=PS Pin=C68-2
+Added Pin To Net: NetName=PS Pin=C70-2
+Added Pin To Net: NetName=PS Pin=C71-2
+Added Pin To Net: NetName=PS Pin=C77-2
+Added Pin To Net: NetName=PS Pin=D4-2
+Added Pin To Net: NetName=PS Pin=D5-1
+Added Pin To Net: NetName=PS Pin=R54-2
+Added Pin To Net: NetName=PS Pin=R58-2
+Added Pin To Net: NetName=PS Pin=R59-2
+Added Pin To Net: NetName=PS Pin=R61-2
+Added Pin To Net: NetName=PS Pin=R62-2
+Added Pin To Net: NetName=PS Pin=R64-2
+Added Pin To Net: NetName=PS Pin=U4-3
+Added Pin To Net: NetName=PS Pin=U4-6
+Added Pin To Net: NetName=PS Pin=U4-13
+Added Pin To Net: NetName=PS Pin=U4-18
+Added Pin To Net: NetName=PS Pin=U4-30
+Added Pin To Net: NetName=PS Pin=U4-33
+Added Pin To Net: NetName=PS Pin=U4-34
+Added Pin To Net: NetName=PS Pin=U4-45
+Added Pin To Net: NetName=PS Pin=U4-46
+Added Pin To Net: NetName=PS Pin=U4-52
+Added Pin To Net: NetName=PS Pin=U4-53
+Added Pin To Net: NetName=PS Pin=U13-5
+Added Pin To Net: NetName=PS Pin=U26-5
+Added Pin To Net: NetName=PS Pin=U29-5
+Added Pin To Net: NetName=PS Pin=USBC1-A4
+Added Pin To Net: NetName=PS Pin=USBC1-A9
+Added Pin To Net: NetName=PS Pin=USBC1-B4
+Added Pin To Net: NetName=PS Pin=USBC1-B9
+Added Net: Name=PS
+Added Pin To Net: NetName=PWRON Pin=U4-27
+Added Net: Name=PWRON
+Added Pin To Net: NetName=SDC0_CLK Pin=U5-5
+Added Pin To Net: NetName=SDC0_CLK Pin=U21-2
+Added Net: Name=SDC0_CLK
+Add Net: Net with name "SDC0_CLK" already exists
+Added Pin To Net: NetName=SDC0_CMD Pin=R52-1
+Added Pin To Net: NetName=SDC0_CMD Pin=U5-3
+Added Pin To Net: NetName=SDC0_CMD Pin=U20-2
+Added Net: Name=SDC0_CMD
+Add Net: Net with name "SDC0_CMD" already exists
+Added Pin To Net: NetName=SDC0_D0 Pin=U5-7
+Added Pin To Net: NetName=SDC0_D0 Pin=U16-2
+Added Net: Name=SDC0_D0
+Add Net: Net with name "SDC0_D0" already exists
+Added Pin To Net: NetName=SDC0_D1 Pin=U2-E2
+Added Net: Name=SDC0_D1
+Add Net: Net with name "SDC0_D1" already exists
+Added Pin To Net: NetName=SDC0_D2 Pin=U5-1
+Added Pin To Net: NetName=SDC0_D2 Pin=U18-2
+Added Net: Name=SDC0_D2
+Add Net: Net with name "SDC0_D2" already exists
+Added Pin To Net: NetName=SDC0_D3 Pin=U2-F1
+Added Net: Name=SDC0_D3
+Add Net: Net with name "SDC0_D3" already exists
+Added Pin To Net: NetName=SDC0_DET Pin=R56-1
+Added Pin To Net: NetName=SDC0_DET Pin=U5-9
+Added Pin To Net: NetName=SDC0_DET Pin=U22-2
+Added Net: Name=SDC0_DET
+Add Net: Net with name "SDC0_DET" already exists
+Added Pin To Net: NetName=USB0_DRVVBUS Pin=R54-1
+Added Pin To Net: NetName=USB0_DRVVBUS Pin=R57-2
+Added Pin To Net: NetName=USB0_DRVVBUS Pin=U13-4
+Added Net: Name=USB0_DRVVBUS
+Add Net: Net with name "USB0_DRVVBUS" already exists
+Added Pin To Net: NetName=USB0_N Pin=U12-A13
+Added Net: Name=USB0_N
+Add Net: Net with name "USB0_N" already exists
+Added Pin To Net: NetName=USB0_P Pin=U14-2
+Added Pin To Net: NetName=USB0_P Pin=USB2-3
+Added Net: Name=USB0_P
+Add Net: Net with name "USB0_P" already exists
+Added Pin To Net: NetName=USB1_AP_SSTX_N Pin=C44-2
+Added Pin To Net: NetName=USB1_AP_SSTX_N Pin=U12-B15
+Added Net: Name=USB1_AP_SSTX_N
+Added Pin To Net: NetName=USB1_AP_SSTX_P Pin=C45-2
+Added Pin To Net: NetName=USB1_AP_SSTX_P Pin=U12-C15
+Added Net: Name=USB1_AP_SSTX_P
+Added Pin To Net: NetName=USB1_N Pin=U12-B16
+Added Net: Name=USB1_N
+Add Net: Net with name "USB1_N" already exists
+Added Pin To Net: NetName=USB1_P Pin=U12-C16
+Added Net: Name=USB1_P
+Add Net: Net with name "USB1_P" already exists
+Added Pin To Net: NetName=USB1_SSRX_N Pin=U12-A14
+Added Net: Name=USB1_SSRX_N
+Add Net: Net with name "USB1_SSRX_N" already exists
+Added Pin To Net: NetName=USB1_SSRX_P Pin=D6-2
+Added Pin To Net: NetName=USB1_SSRX_P Pin=D6-9
+Added Pin To Net: NetName=USB1_SSRX_P Pin=USB1-15
+Added Net: Name=USB1_SSRX_P
+Add Net: Net with name "USB1_SSRX_P" already exists
+Added Pin To Net: NetName=USB1_SSTX_N Pin=D6-4
+Added Pin To Net: NetName=USB1_SSTX_N Pin=D6-7
+Added Pin To Net: NetName=USB1_SSTX_N Pin=USB1-17
+Added Net: Name=USB1_SSTX_N
+Add Net: Net with name "USB1_SSTX_N" already exists
+Added Pin To Net: NetName=USB1_SSTX_P Pin=D6-5
+Added Pin To Net: NetName=USB1_SSTX_P Pin=D6-6
+Added Pin To Net: NetName=USB1_SSTX_P Pin=USB1-18
+Added Net: Name=USB1_SSTX_P
+Add Net: Net with name "USB1_SSTX_P" already exists
+Added Pin To Net: NetName=USB_VBUS0 Pin=C81-1
+Added Pin To Net: NetName=USB_VBUS0 Pin=C82-1
+Added Pin To Net: NetName=USB_VBUS0 Pin=R58-1
+Added Pin To Net: NetName=USB_VBUS0 Pin=U13-1
+Added Pin To Net: NetName=USB_VBUS0 Pin=USB2-1
+Added Net: Name=USB_VBUS0
+Added Pin To Net: NetName=USB_VBUS1 Pin=C86-2
+Added Pin To Net: NetName=USB_VBUS1 Pin=C87-2
+Added Pin To Net: NetName=USB_VBUS1 Pin=R64-1
+Added Pin To Net: NetName=USB_VBUS1 Pin=U29-1
+Added Pin To Net: NetName=USB_VBUS1 Pin=USB1-10
+Added Net: Name=USB_VBUS1
+Added Pin To Net: NetName=USB_VBUS3 Pin=C84-2
+Added Pin To Net: NetName=USB_VBUS3 Pin=C85-2
+Added Pin To Net: NetName=USB_VBUS3 Pin=R61-1
+Added Pin To Net: NetName=USB_VBUS3 Pin=U26-1
+Added Pin To Net: NetName=USB_VBUS3 Pin=USB1-1
+Added Net: Name=USB_VBUS3
+Added Pin To Net: NetName=VCC18_RTC Pin=C59-2
+Added Pin To Net: NetName=VCC18_RTC Pin=R39-1
+Added Pin To Net: NetName=VCC18_RTC Pin=R42-1
+Added Pin To Net: NetName=VCC18_RTC Pin=R43-1
+Added Pin To Net: NetName=VCC18_RTC Pin=R46-1
+Added Net: Name=VCC18_RTC
+Added Pin To Net: NetName=VCC33_EMMC Pin=C48-2
+Added Pin To Net: NetName=VCC33_EMMC Pin=C49-2
+Added Pin To Net: NetName=VCC33_EMMC Pin=U3-E6
+Added Pin To Net: NetName=VCC33_EMMC Pin=U3-F5
+Added Pin To Net: NetName=VCC33_EMMC Pin=U3-J10
+Added Pin To Net: NetName=VCC33_EMMC Pin=U3-K9
+Added Net: Name=VCC33_EMMC
+Added Pin To Net: NetName=VCC33_WIFI Pin=C38-2
+Added Pin To Net: NetName=VCC33_WIFI Pin=R51-1
+Added Pin To Net: NetName=VCC33_WIFI Pin=U6-9
+Added Net: Name=VCC33_WIFI
+Added Pin To Net: NetName=VCC_DCXOIO Pin=C40-2
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R18-2
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R19-2
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R20-2
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R21-2
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R24-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R25-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R26-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R27-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R28-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R30-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R47-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R50-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=U2-H6
+Added Pin To Net: NetName=VCC_DCXOIO Pin=U6-22
+Added Net: Name=VCC_DCXOIO
+Added Pin To Net: NetName=VCC_PC Pin=C50-2
+Added Pin To Net: NetName=VCC_PC Pin=C51-2
+Added Pin To Net: NetName=VCC_PC Pin=R37-2
+Added Pin To Net: NetName=VCC_PC Pin=R48-1
+Added Pin To Net: NetName=VCC_PC Pin=R49-2
+Added Pin To Net: NetName=VCC_PC Pin=U3-C6
+Added Pin To Net: NetName=VCC_PC Pin=U3-M4
+Added Pin To Net: NetName=VCC_PC Pin=U3-N4
+Added Pin To Net: NetName=VCC_PC Pin=U3-P3
+Added Pin To Net: NetName=VCC_PC Pin=U3-P5
+Added Net: Name=VCC_PC
+Added Pin To Net: NetName=VDD09_HDMI Pin=C69-2
+Added Pin To Net: NetName=VDD09_HDMI Pin=L5-2
+Added Pin To Net: NetName=VDD09_HDMI Pin=U4-9
+Added Pin To Net: NetName=VDD09_HDMI Pin=U12-D18
+Added Pin To Net: NetName=VDD09_HDMI Pin=U12-G16
+Added Net: Name=VDD09_HDMI
+Added Pin To Net: NetName=VDD18_LPDDR Pin=C19-2
+Added Pin To Net: NetName=VDD18_LPDDR Pin=C20-2
+Added Pin To Net: NetName=VDD18_LPDDR Pin=R39-2
+Added Net: Name=VDD18_LPDDR
+Added Pin To Net: NetName=VDD_CPU Pin=C56-2
+Added Pin To Net: NetName=VDD_CPU Pin=C61-2
+Added Pin To Net: NetName=VDD_CPU Pin=L2-2
+Added Pin To Net: NetName=VDD_CPU Pin=L3-2
+Added Net: Name=VDD_CPU
+Added Pin To Net: NetName=VDD_DRAM Pin=C76-2
+Added Pin To Net: NetName=VDD_DRAM Pin=L6-2
+Added Pin To Net: NetName=VDD_DRAM Pin=U4-10
+Added Net: Name=VDD_DRAM
+Added Pin To Net: NetName=VDD_GPU Pin=C63-2
+Added Pin To Net: NetName=VDD_GPU Pin=L4-2
+Added Net: Name=VDD_GPU
+Added Pin To Net: NetName=VDDI Pin=C46-2
+Added Pin To Net: NetName=VDDI Pin=C47-2
+Added Pin To Net: NetName=VDDI Pin=U3-C1
+Added Pin To Net: NetName=VDDI Pin=U3-C2
+Added Net: Name=VDDI
+Added Pin To Net: NetName=VREF Pin=C60-2
+Added Pin To Net: NetName=VREF Pin=U4-29
+Added Net: Name=VREF
+Added Pin To Net: NetName=WIFI_CLK_IN Pin=C42-2
+Added Pin To Net: NetName=WIFI_CLK_IN Pin=U6-10
+Added Pin To Net: NetName=WIFI_CLK_IN Pin=X1-1
+Added Net: Name=WIFI_CLK_IN
+Added Pin To Net: NetName=WIFI_CLK_OUT Pin=C41-1
+Added Pin To Net: NetName=WIFI_CLK_OUT Pin=U6-11
+Added Pin To Net: NetName=WIFI_CLK_OUT Pin=X1-3
+Added Net: Name=WIFI_CLK_OUT
+Added Pin To Net: NetName=WIFI_REG_ON Pin=R22-2
+Added Pin To Net: NetName=WIFI_REG_ON Pin=U6-12
+Added Net: Name=WIFI_REG_ON
+Added Pin To Net: NetName=WIFI_WAKE_UP Pin=U6-13
+Added Net: Name=WIFI_WAKE_UP
+Added Pin To Net: NetName=WL_SDIO_CLK Pin=U6-17
+Added Net: Name=WL_SDIO_CLK
+Add Net: Net with name "WL_SDIO_CLK" already exists
+Added Pin To Net: NetName=WL_SDIO_CMD Pin=U2-J3
+Added Net: Name=WL_SDIO_CMD
+Add Net: Net with name "WL_SDIO_CMD" already exists
+Added Pin To Net: NetName=WL_SDIO_D0 Pin=U2-J5
+Added Net: Name=WL_SDIO_D0
+Add Net: Net with name "WL_SDIO_D0" already exists
+Added Pin To Net: NetName=WL_SDIO_D1 Pin=U2-H2
+Added Net: Name=WL_SDIO_D1
+Add Net: Net with name "WL_SDIO_D1" already exists
+Added Pin To Net: NetName=WL_SDIO_D2 Pin=U2-L5
+Added Net: Name=WL_SDIO_D2
+Add Net: Net with name "WL_SDIO_D2" already exists
+Added Pin To Net: NetName=WL_SDIO_D3 Pin=U2-H5
+Added Net: Name=WL_SDIO_D3
+Add Net: Net with name "WL_SDIO_D3" already exists
+Added Class: Name=AWH6
+Added Class: Name=Embedded MultiMedia Card
+Added Class: Name=U_MPU_2
+Added Differential Pair: Name=HOST3
+Added Differential Pair: Name=HTX0
+Added Differential Pair: Name=HTX1
+Added Differential Pair: Name=HTX2
+Added Differential Pair: Name=HTXC
+Added Differential Pair: Name=USB0
+Added Differential Pair: Name=USB1_AP_SSTX
+Added Differential Pair: Name=USB1_SSRX
+Added Differential Pair: Name=USB1_SSTX
+Added Differential Pair: Name=USB1
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component C27 NC-10uF
+Added Member To Class: ClassName=Audio and HDMI Member=Component C33 4.7uF
+Added Member To Class: ClassName=Audio and HDMI Member=Component C34 4.7uF
+Added Member To Class: ClassName=Audio and HDMI Member=Component C35 100nF
+Added Member To Class: ClassName=Audio and HDMI Member=Component C36 100nF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C37 10pF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C38 10uF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C39 4.7uF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C40 4.7uF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C41 20pF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C42 20pF
+Added Member To Class: ClassName=Power Member=Component C52 22uF
+Added Member To Class: ClassName=Power Member=Component C53 10uF
+Added Member To Class: ClassName=Power Member=Component C54 100nF
+Added Member To Class: ClassName=Power Member=Component C55 10uF
+Added Member To Class: ClassName=Power Member=Component C56 10uF
+Added Member To Class: ClassName=Power Member=Component C57 1nF
+Added Member To Class: ClassName=Power Member=Component C58 10uF
+Added Member To Class: ClassName=Power Member=Component C59 4.7uF
+Added Member To Class: ClassName=Power Member=Component C60 1uF
+Added Member To Class: ClassName=Power Member=Component C61 10uF
+Added Member To Class: ClassName=Power Member=Component C62 10uF
+Added Member To Class: ClassName=Power Member=Component C63 10uF
+Added Member To Class: ClassName=Power Member=Component C64 10uF
+Added Member To Class: ClassName=Power Member=Component C65 10uF
+Added Member To Class: ClassName=Power Member=Component C66 10uF
+Added Member To Class: ClassName=Power Member=Component C67 10uF
+Added Member To Class: ClassName=Power Member=Component C68 10uF
+Added Member To Class: ClassName=Power Member=Component C69 10uF
+Added Member To Class: ClassName=Power Member=Component C70 10uF
+Added Member To Class: ClassName=Power Member=Component C71 10uF
+Added Member To Class: ClassName=Power Member=Component C72 4.7uF
+Added Member To Class: ClassName=Power Member=Component C73 4.7uF
+Added Member To Class: ClassName=Power Member=Component C74 4.7uF
+Added Member To Class: ClassName=Power Member=Component C75 4.7uF
+Added Member To Class: ClassName=Power Member=Component C76 10uF
+Added Member To Class: ClassName=Power Member=Component C77 10uF
+Added Member To Class: ClassName=Power Member=Component C78 10uF
+Added Member To Class: ClassName=Power Member=Component C79 10uF
+Added Member To Class: ClassName=Power Member=Component C80 10uF
+Added Member To Class: ClassName=TF-Card and USB Member=Component C81 100nF
+Added Member To Class: ClassName=TF-Card and USB Member=Component C82 10uF
+Added Member To Class: ClassName=TF-Card and USB Member=Component C83 10uF
+Added Member To Class: ClassName=TF-Card and USB Member=Component C84 100nF
+Added Member To Class: ClassName=TF-Card and USB Member=Component C85 10uF
+Added Member To Class: ClassName=TF-Card and USB Member=Component C86 100nF
+Added Member To Class: ClassName=TF-Card and USB Member=Component C87 10uF
+Added Member To Class: ClassName=Audio and HDMI Member=Component D1 AZ1045-04F.R7G
+Added Member To Class: ClassName=Audio and HDMI Member=Component D2 AZ1045-04F.R7G
+Added Member To Class: ClassName=Audio and HDMI Member=Component D3 1N5819WS
+Added Member To Class: ClassName=Audio and HDMI Member=Component D4 1N5819WS
+Added Member To Class: ClassName=Power Member=Component D5 SMAJ5.0A
+Added Member To Class: ClassName=TF-Card and USB Member=Component D6 AZ1045-04F.R7G
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component JP1 6GHz
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component L1 4.7uH
+Added Member To Class: ClassName=Power Member=Component L2 1.5uH
+Added Member To Class: ClassName=Power Member=Component L3 1.5uH
+Added Member To Class: ClassName=Power Member=Component L4 1.5uH
+Added Member To Class: ClassName=Power Member=Component L5 1.5uH
+Added Member To Class: ClassName=Power Member=Component L6 1.5uH
+Added Member To Class: ClassName=Audio and HDMI Member=Component Q1 BSN20
+Added Member To Class: ClassName=Audio and HDMI Member=Component Q2 BSN20
+Added Member To Class: ClassName=Audio and HDMI Member=Component Q3 BSN20
+Added Member To Class: ClassName=Low Power DDR3 2GB Member=Component R3 2kO
+Added Member To Class: ClassName=Audio and HDMI Member=Component R8 0O
+Added Member To Class: ClassName=Audio and HDMI Member=Component R9 0O
+Added Member To Class: ClassName=Audio and HDMI Member=Component R10 10kO
+Added Member To Class: ClassName=Audio and HDMI Member=Component R11 1.8kO
+Added Member To Class: ClassName=Audio and HDMI Member=Component R12 0O
+Added Member To Class: ClassName=Audio and HDMI Member=Component R13 10kO
+Added Member To Class: ClassName=Audio and HDMI Member=Component R14 1.8kO
+Added Member To Class: ClassName=Audio and HDMI Member=Component R15 10kO
+Added Member To Class: ClassName=Audio and HDMI Member=Component R16 56kO
+Added Member To Class: ClassName=Audio and HDMI Member=Component R17 56kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R18 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R19 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R20 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R21 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R22 100kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R23 0O
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R24 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R25 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R26 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R27 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R28 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R29 0O
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R30 10kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R31 NC-100kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R32 NC-100kO
+Added Member To Class: ClassName=Power Member=Component R39 0O
+Added Member To Class: ClassName=Power Member=Component R40 5.1kO
+Added Member To Class: ClassName=Power Member=Component R41 5.1kO
+Added Member To Class: ClassName=Power Member=Component R42 0O
+Added Member To Class: ClassName=Power Member=Component R43 2kO
+Added Member To Class: ClassName=Power Member=Component R44 2kO
+Added Member To Class: ClassName=Power Member=Component R45 2kO
+Added Member To Class: ClassName=Power Member=Component R46 0O
+Added Member To Class: ClassName=Power Member=Component R47 NC-0O
+Added Member To Class: ClassName=Power Member=Component R48 NC-0O
+Added Member To Class: ClassName=Power Member=Component R49 0O
+Added Member To Class: ClassName=Power Member=Component R50 NC-0O
+Added Member To Class: ClassName=Power Member=Component R51 NC-0O
+Added Member To Class: ClassName=TF-Card and USB Member=Component R52 10kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R53 0O
+Added Member To Class: ClassName=TF-Card and USB Member=Component R54 10kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R55 6.8kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R56 47kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R57 100kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R58 NC-0O
+Added Member To Class: ClassName=TF-Card and USB Member=Component R59 10kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R60 6.8kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R61 NC-0O
+Added Member To Class: ClassName=TF-Card and USB Member=Component R62 10kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R63 6.8kO
+Added Member To Class: ClassName=TF-Card and USB Member=Component R64 NC-0O
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component U6 2.4GHz
+Added Member To Class: ClassName=Audio and HDMI Member=Component U7 ESD5451N
+Added Member To Class: ClassName=Audio and HDMI Member=Component U8 ESD5451N
+Added Member To Class: ClassName=Audio and HDMI Member=Component U9 ESD5451N
+Added Member To Class: ClassName=Audio and HDMI Member=Component U10 ESD5451N
+Added Member To Class: ClassName=Audio and HDMI Member=Component U11 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U13 SY6280AAC
+Added Member To Class: ClassName=TF-Card and USB Member=Component U14 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U15 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U16 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U17 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U18 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U19 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U20 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U21 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U22 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U23 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U24 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U25 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U26 SY6280AAC
+Added Member To Class: ClassName=TF-Card and USB Member=Component U27 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U28 ESD5451N
+Added Member To Class: ClassName=TF-Card and USB Member=Component U29 SY6280AAC
+Added Member To Class: ClassName=TF-Card and USB Member=Component USB2 906-162A1011D10200
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component X1 26MHz
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
