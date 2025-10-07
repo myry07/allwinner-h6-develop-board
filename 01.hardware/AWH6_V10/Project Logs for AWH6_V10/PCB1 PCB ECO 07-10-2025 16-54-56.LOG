@@ -1,0 +1,1116 @@
+Removed Pin From Net: NetName=HDMI_CEC Pin=U2-E9
+Removed Pin From Net: NetName=HDMI_SDA Pin=U2-F7
+Added Component: Designator=C88(C0402)
+Added Component: Designator=C89(C0402)
+Added Component: Designator=C90(C0402)
+Added Component: Designator=C91(C0603)
+Added Component: Designator=C92(C0402)
+Added Component: Designator=C93(C0603)
+Added Component: Designator=C94(C0402)
+Added Component: Designator=C95(C0402)
+Added Component: Designator=C96(C0402)
+Added Component: Designator=C97(C0402)
+Added Component: Designator=C98(C0402)
+Added Component: Designator=C99(C0402)
+Added Component: Designator=C100(C0402)
+Added Component: Designator=C101(C0402)
+Added Component: Designator=C102(C0402)
+Added Component: Designator=C103(C0402)
+Added Component: Designator=C104(C0402)
+Added Component: Designator=C105(C0402)
+Added Component: Designator=C106(C0402)
+Added Component: Designator=C107(C0603)
+Added Component: Designator=C108(C0603)
+Added Component: Designator=C109(C0402)
+Added Component: Designator=C110(C0402)
+Added Component: Designator=C111(C0402)
+Added Component: Designator=C112(C0402)
+Added Component: Designator=C113(C0603)
+Added Component: Designator=C114(C0603)
+Added Component: Designator=C115(C0402)
+Added Component: Designator=C116(C0402)
+Added Component: Designator=C117(C0402)
+Added Component: Designator=C118(C0402)
+Added Component: Designator=C119(C0603)
+Added Component: Designator=C120(C0603)
+Added Component: Designator=C121(C0402)
+Added Component: Designator=C122(C0402)
+Added Component: Designator=C123(C0402)
+Added Component: Designator=C124(C0402)
+Added Component: Designator=C125(C0402)
+Added Component: Designator=C126(C0402)
+Added Component: Designator=C127(C0402)
+Added Component: Designator=C128(C0402)
+Added Component: Designator=C129(C0402)
+Added Component: Designator=C130(C0402)
+Added Component: Designator=C131(C0402)
+Added Component: Designator=C132(C0603)
+Added Component: Designator=C133(C0402)
+Added Component: Designator=C134(C0402)
+Added Component: Designator=C135(C0603)
+Added Component: Designator=C136(C0402)
+Added Component: Designator=C137(C0402)
+Added Component: Designator=C138(C0402)
+Added Component: Designator=C139(C0402)
+Added Component: Designator=C140(C0402)
+Added Component: Designator=C141(C0402)
+Added Component: Designator=C142(C0402)
+Added Component: Designator=C143(C0402)
+Added Component: Designator=C144(C0402)
+Added Component: Designator=C145(C0402)
+Added Component: Designator=C146(C0402)
+Added Component: Designator=C147(C0402)
+Added Component: Designator=C148(C0402)
+Added Component: Designator=C149(C0402)
+Added Component: Designator=C150(C0402)
+Added Component: Designator=C151(C0402)
+Added Component: Designator=C152(C0402)
+Added Component: Designator=C153(C0402)
+Added Component: Designator=C154(C0402)
+Added Component: Designator=C155(C0402)
+Added Component: Designator=C156(C0402)
+Added Component: Designator=C157(C0402)
+Added Component: Designator=H1(HDR-TH_26P-P2.54-V-M-R2-C13-S2.54)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Policy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20241030/EE4AA9A2A54CB82C1A8AF84F8BB095A7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HX PZ2.54-2x13P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2x13P ??:2.54mm ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HX PZ2.54-2x13P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "26P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Double Row"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "2x13P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42372521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HX PZ2.54-2X13P ZZ"; VariantName = "[No Variations]"
+Added Component: Designator=L7(IND-SMD_L6.0-W6.0_FNR60XXS)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190327/C167925_9EFF0AABC4CA629C2CC95961DBF7D39D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "75mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FNR6020S4R7MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7uH ±20% 3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "cjiang(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FNR6020S4R7MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current (Isat)"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,6x6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C168008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FNR6020S4R7MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uH"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED0603-RD)
+Added Component: Designator=LED2(LED0603-GR)
+Added Component: Designator=Q4(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain(Id)"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/BSN20/117410.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BSN20_C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Threshold Voltage (Vgs(th))"; Value = "1.5V@250uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance(Ciss)"; Value = "40pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1?N?? ??:50V ??:0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHIKUES(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1?N??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Capacitance(Coss)"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "10O@2.75V,0.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Transfer Capacitance (Crss@Vds)"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C116157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BSN20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "N??"; VariantName = "[No Variations]"
+Added Component: Designator=R65(R0402)
+Added Component: Designator=R66(R0402)
+Added Component: Designator=R67(R0402)
+Added Component: Designator=R68(R0402)
+Added Component: Designator=R69(R0402)
+Added Component: Designator=R70(R0402)
+Added Component: Designator=R71(R0402)
+Added Component: Designator=R72(R0402)
+Added Component: Designator=R73(R0402)
+Added Component: Designator=R74(R0402)
+Added Component: Designator=R75(R0402)
+Added Component: Designator=R76(R0402)
+Added Component: Designator=R77(R0402)
+Added Component: Designator=R78(R0402)
+Added Component: Designator=R79(R0402)
+Added Component: Designator=R80(R0402)
+Added Component: Designator=R81(R0402)
+Added Component: Designator=R82(R0402)
+Added Component: Designator=R83(R0402)
+Added Component: Designator=R84(R0402)
+Added Component: Designator=R85(R0402)
+Added Component: Designator=R86(R0402)
+Added Component: Designator=R87(R0402)
+Added Component: Designator=R88(R0402)
+Added Component: Designator=R89(R0402)
+Added Component: Designator=R90(R0402)
+Added Component: Designator=R91(R0402)
+Added Component: Designator=SW1(SW-SMD_L3.9-W3.0-P4.45)
+Added Component: Designator=SW2(SW-SMD_L3.9-W3.0-P4.45)
+Added Component: Designator=SW3(SW-SMD_L3.9-W3.0-P4.45)
+Added Component: Designator=SW4(SW-SMD_L3.9-W3.0-P4.45)
+Added Component: Designator=U30(TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SY8089A1AAC/486366.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SY8089A1AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Switching"; Value = "1.5MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??1.5MHz 2A???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silergy(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SY8089A1AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?@(TA/TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C479074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "Built-In"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SY8089A1AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.5V~5.5V"; VariantName = "[No Variations]"
+Added Component: Designator=U31(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ME6212C18M5G/236109.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ME6212C18M5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Enable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??6V ??1.8V 250mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MICRONE(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ME6212C18M5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise"; Value = "50uVrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+150?@(Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "65dB@(1kHz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "standby current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C236669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ME6212C18M5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Dropout"; Value = "200mV@(100mA)"; VariantName = "[No Variations]"
+Added Component: Designator=U32(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U33(BGA451_ALLWINNER_H6)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Allwinner_H6"; VariantName = "[No Variations]"
+Added Component: Designator=U34(HDR-TH_2P-P2.54-V-M-3)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HX%2520PZ2.54-1x2P%2520ZZ/34444548.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x2P ??:2.54mm ?? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HX PZ2.54-1x2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C32713268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HX PZ2.54-1X2P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U35(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=X2(CRYSTAL-SMD_4P-L3.2-W2.5-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/X322524MOB4SI/71688.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "YSX321SL 24MHZ 4P 3225 12PF ±10PPM -40~85? (±20PPM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YXC(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Normal temperature Frequency Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD3225-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C70590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24MHz"; VariantName = "[No Variations]"
+Added Component: Designator=X3(MC-146_4P-L6.7-W1.5-P0.85-TL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170211/1486785670215.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "Q13MC14610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "65kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "32.768kHz ±20ppm 7pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EPSON(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "Q13MC14610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Normal temperature Frequency Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "MC-146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C94977"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MC-14632.768kHz7.0pF20PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EMMC_CLK Pin=C43-2
+Added Pin To Net: NetName=USB1_SSTX_N Pin=C44-1
+Added Pin To Net: NetName=USB1_SSTX_P Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=PS Pin=C90-2
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=PS Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=GND Pin=C96-1
+Added Pin To Net: NetName=VCC33_WIFI Pin=C96-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=VCC_PC Pin=C97-2
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=C98-2
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=ALDO1 Pin=C99-2
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=GND Pin=C106-1
+Added Pin To Net: NetName=GND Pin=C107-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C107-2
+Added Pin To Net: NetName=GND Pin=C108-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C108-2
+Added Pin To Net: NetName=GND Pin=C109-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C109-2
+Added Pin To Net: NetName=GND Pin=C110-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C110-2
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C111-2
+Added Pin To Net: NetName=GND Pin=C112-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C112-2
+Added Pin To Net: NetName=GND Pin=C113-1
+Added Pin To Net: NetName=VDD_CPU Pin=C113-2
+Added Pin To Net: NetName=GND Pin=C114-1
+Added Pin To Net: NetName=VDD_CPU Pin=C114-2
+Added Pin To Net: NetName=GND Pin=C115-1
+Added Pin To Net: NetName=VDD_CPU Pin=C115-2
+Added Pin To Net: NetName=GND Pin=C116-1
+Added Pin To Net: NetName=VDD_CPU Pin=C116-2
+Added Pin To Net: NetName=GND Pin=C117-1
+Added Pin To Net: NetName=VDD_CPU Pin=C117-2
+Added Pin To Net: NetName=GND Pin=C118-1
+Added Pin To Net: NetName=VDD_CPU Pin=C118-2
+Added Pin To Net: NetName=GND Pin=C119-1
+Added Pin To Net: NetName=VDD_GPU Pin=C119-2
+Added Pin To Net: NetName=GND Pin=C120-1
+Added Pin To Net: NetName=VDD_GPU Pin=C120-2
+Added Pin To Net: NetName=GND Pin=C121-1
+Added Pin To Net: NetName=VDD_GPU Pin=C121-2
+Added Pin To Net: NetName=GND Pin=C122-1
+Added Pin To Net: NetName=VDD_GPU Pin=C122-2
+Added Pin To Net: NetName=GND Pin=C123-1
+Added Pin To Net: NetName=VDD_GPU Pin=C123-2
+Added Pin To Net: NetName=GND Pin=C124-1
+Added Pin To Net: NetName=VDD_GPU Pin=C124-2
+Added Pin To Net: NetName=GND Pin=C125-2
+Added Pin To Net: NetName=GND Pin=C126-1
+Added Pin To Net: NetName=VCC_DCXOIO Pin=C126-2
+Added Pin To Net: NetName=GND Pin=C127-1
+Added Pin To Net: NetName=GND Pin=C128-1
+Added Pin To Net: NetName=GND Pin=C129-1
+Added Pin To Net: NetName=ALDO3 Pin=C129-2
+Added Pin To Net: NetName=GND Pin=C130-1
+Added Pin To Net: NetName=ALDO3 Pin=C130-2
+Added Pin To Net: NetName=GND Pin=C131-1
+Added Pin To Net: NetName=GND Pin=C132-1
+Added Pin To Net: NetName=ALDO2 Pin=C132-2
+Added Pin To Net: NetName=GND Pin=C133-1
+Added Pin To Net: NetName=ALDO2 Pin=C133-2
+Added Pin To Net: NetName=GND Pin=C134-1
+Added Pin To Net: NetName=GND Pin=C135-1
+Added Pin To Net: NetName=GND Pin=C136-1
+Added Pin To Net: NetName=GND Pin=C137-1
+Added Pin To Net: NetName=GND Pin=C138-1
+Added Pin To Net: NetName=GND Pin=C139-2
+Added Pin To Net: NetName=GND Pin=C140-2
+Added Pin To Net: NetName=GND Pin=C141-1
+Added Pin To Net: NetName=ALDO2 Pin=C141-2
+Added Pin To Net: NetName=GND Pin=C142-1
+Added Pin To Net: NetName=BLDO1 Pin=C142-2
+Added Pin To Net: NetName=GND Pin=C143-1
+Added Pin To Net: NetName=BLDO2 Pin=C143-2
+Added Pin To Net: NetName=GND Pin=C144-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C144-2
+Added Pin To Net: NetName=GND Pin=C145-1
+Added Pin To Net: NetName=ALDO2 Pin=C145-2
+Added Pin To Net: NetName=GND Pin=C146-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C146-2
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=BLDO2 Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=VCC18_RTC Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C150-1
+Added Pin To Net: NetName=VDD09_HDMI Pin=C150-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=ALDO3 Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=BLDO1 Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=BLDO1 Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=GND Pin=C155-1
+Added Pin To Net: NetName=GND Pin=C156-1
+Added Pin To Net: NetName=GND Pin=C157-1
+Added Pin To Net: NetName=HTX2_N Pin=CN1-3
+Added Pin To Net: NetName=HTX1_P Pin=CN1-4
+Added Pin To Net: NetName=HTXC_P Pin=CN1-10
+Added Pin To Net: NetName=HDMI_CEC Pin=CN1-13
+Added Pin To Net: NetName=HDMI_SDA Pin=CN1-16
+Added Pin To Net: NetName=HTX2_N Pin=D1-2
+Added Pin To Net: NetName=HTX1_P Pin=D1-4
+Added Pin To Net: NetName=HTX1_P Pin=D1-7
+Added Pin To Net: NetName=HTX2_N Pin=D1-9
+Added Pin To Net: NetName=HTXC_P Pin=D2-4
+Added Pin To Net: NetName=HTXC_P Pin=D2-7
+Added Pin To Net: NetName=USB1_SSRX_N Pin=D6-1
+Added Pin To Net: NetName=USB1_SSRX_N Pin=D6-10
+Added Pin To Net: NetName=ALDO3 Pin=H1-1
+Added Pin To Net: NetName=PS Pin=H1-2
+Added Pin To Net: NetName=PS Pin=H1-4
+Added Pin To Net: NetName=GND Pin=H1-6
+Added Pin To Net: NetName=GND Pin=H1-9
+Added Pin To Net: NetName=GND Pin=H1-14
+Added Pin To Net: NetName=ALDO3 Pin=H1-17
+Added Pin To Net: NetName=GND Pin=H1-20
+Added Pin To Net: NetName=GND Pin=H1-25
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=HDMI_SDA Pin=Q2-3
+Added Pin To Net: NetName=HDMI_CEC Pin=Q3-3
+Added Pin To Net: NetName=ALDO3 Pin=Q4-1
+Added Pin To Net: NetName=DDC_CDC_EN Pin=R12-1
+Added Pin To Net: NetName=HDMI_SDA Pin=R14-1
+Added Pin To Net: NetName=HDMI_CEC Pin=R17-1
+Added Pin To Net: NetName=BT_UART_CTS Pin=R18-1
+Added Pin To Net: NetName=BT_UART_TX Pin=R20-1
+Added Pin To Net: NetName=BT_UART_RTS Pin=R21-1
+Added Pin To Net: NetName=WL_SDIO_D1 Pin=R24-2
+Added Pin To Net: NetName=WL_SDIO_D0 Pin=R25-2
+Added Pin To Net: NetName=WL_SDIO_CMD Pin=R26-2
+Added Pin To Net: NetName=WL_SDIO_D3 Pin=R27-2
+Added Pin To Net: NetName=WL_SDIO_D2 Pin=R28-2
+Added Pin To Net: NetName=SDC0_CLK Pin=R33-2
+Added Pin To Net: NetName=EMMC_CLK Pin=R34-1
+Added Pin To Net: NetName=WL_SDIO_CLK Pin=R35-2
+Added Pin To Net: NetName=EMMC_RST Pin=R36-1
+Added Pin To Net: NetName=EMMC_DS Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R65-2
+Added Pin To Net: NetName=VCC33_WIFI Pin=R68-2
+Added Pin To Net: NetName=VCC_DCXOIO Pin=R69-2
+Added Pin To Net: NetName=ALDO3 Pin=R70-1
+Added Pin To Net: NetName=GND Pin=R72-2
+Added Pin To Net: NetName=GND Pin=R73-2
+Added Pin To Net: NetName=BLDO1 Pin=R74-2
+Added Pin To Net: NetName=VCC18_RTC Pin=R75-1
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=ALDO2 Pin=R77-2
+Added Pin To Net: NetName=ALDO2 Pin=R78-2
+Added Pin To Net: NetName=ALDO2 Pin=R79-1
+Added Pin To Net: NetName=ALDO3 Pin=R82-2
+Added Pin To Net: NetName=ALDO3 Pin=R83-2
+Added Pin To Net: NetName=ALDO3 Pin=R85-2
+Added Pin To Net: NetName=ALDO1 Pin=R89-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW4-1
+Added Pin To Net: NetName=SDC0_DET Pin=U2-C8
+Added Pin To Net: NetName=HCEC Pin=U2-E9
+Added Pin To Net: NetName=HSCL Pin=U2-E10
+Added Pin To Net: NetName=SDC0_D0 Pin=U2-F3
+Added Pin To Net: NetName=HSDA Pin=U2-F7
+Added Pin To Net: NetName=SDC0_D2 Pin=U2-G2
+Added Pin To Net: NetName=SDC0_CMD Pin=U2-G3
+Added Pin To Net: NetName=BT_UART_RX Pin=U2-H4
+Added Pin To Net: NetName=ALDO1 Pin=U2-H18
+Added Pin To Net: NetName=USB0_DRVVBUS Pin=U2-H20
+Added Pin To Net: NetName=BT_PCM_CLK Pin=U2-K2
+Added Pin To Net: NetName=BT_PCM_SYNC Pin=U2-K3
+Added Pin To Net: NetName=BT_PCM_DOUT Pin=U2-L4
+Added Pin To Net: NetName=BT_REG_ON Pin=U2-L19
+Added Pin To Net: NetName=WL_WAKE_AP Pin=U2-L20
+Added Pin To Net: NetName=BT_WAKE_AP Pin=U2-L21
+Added Pin To Net: NetName=AP_WAKE_BT Pin=U2-L22
+Added Pin To Net: NetName=EMMC_CMD Pin=U2-M21
+Added Pin To Net: NetName=WL_REG_ON Pin=U2-M22
+Added Pin To Net: NetName=VCC_PC Pin=U2-N19
+Added Pin To Net: NetName=EMMC_D1 Pin=U2-N23
+Added Pin To Net: NetName=ALDO3 Pin=U2-R6
+Added Pin To Net: NetName=EMMC_D2 Pin=U2-R22
+Added Pin To Net: NetName=EMMC_D5 Pin=U2-T21
+Added Pin To Net: NetName=EMMC_D6 Pin=U2-U19
+Added Pin To Net: NetName=EMMC_D7 Pin=U2-U21
+Added Pin To Net: NetName=EMMC_D0 Pin=U3-A3
+Added Pin To Net: NetName=EMMC_D3 Pin=U3-B2
+Added Pin To Net: NetName=EMMC_D4 Pin=U3-B3
+Added Pin To Net: NetName=EMMC_D4 Pin=U3-C3
+Added Pin To Net: NetName=EMMC_DS Pin=U3-H5
+Added Pin To Net: NetName=SDC0_D3 Pin=U5-2
+Added Pin To Net: NetName=SDC0_D1 Pin=U5-8
+Added Pin To Net: NetName=WL_SDIO_D2 Pin=U6-14
+Added Pin To Net: NetName=WL_SDIO_D3 Pin=U6-15
+Added Pin To Net: NetName=WL_SDIO_CMD Pin=U6-16
+Added Pin To Net: NetName=WL_SDIO_D0 Pin=U6-18
+Added Pin To Net: NetName=WL_SDIO_D1 Pin=U6-19
+Added Pin To Net: NetName=BT_PCM_DIN Pin=U6-27
+Added Pin To Net: NetName=BT_UART_RTS Pin=U6-41
+Added Pin To Net: NetName=BT_UART_TX Pin=U6-42
+Added Pin To Net: NetName=BT_UART_CTS Pin=U6-44
+Added Pin To Net: NetName=HDMI_SDA Pin=U9-2
+Added Pin To Net: NetName=HDMI_CEC Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U12-A1
+Added Pin To Net: NetName=HOST3_N Pin=U12-A12
+Added Pin To Net: NetName=HTX2_P Pin=U12-A17
+Added Pin To Net: NetName=HTX0_P Pin=U12-A19
+Added Pin To Net: NetName=VCC_DCXOIO Pin=U12-A22
+Added Pin To Net: NetName=ALDO2 Pin=U12-B3
+Added Pin To Net: NetName=USB0_P Pin=U12-B13
+Added Pin To Net: NetName=USB1_SSRX_P Pin=U12-B14
+Added Pin To Net: NetName=HTX1_N Pin=U12-B18
+Added Pin To Net: NetName=HTX0_N Pin=U12-B19
+Added Pin To Net: NetName=HTXC_N Pin=U12-B20
+Added Pin To Net: NetName=ALDO2 Pin=U12-C3
+Added Pin To Net: NetName=HHPD Pin=U12-C20
+Added Pin To Net: NetName=GND Pin=U12-E1
+Added Pin To Net: NetName=GND Pin=U12-E3
+Added Pin To Net: NetName=ALDO2 Pin=U12-E4
+Added Pin To Net: NetName=GND Pin=U12-E5
+Added Pin To Net: NetName=BLDO1 Pin=U12-E19
+Added Pin To Net: NetName=VCC18_RTC Pin=U12-F20
+Added Pin To Net: NetName=VDD09_HDMI Pin=U12-G12
+Added Pin To Net: NetName=BLDO2 Pin=U12-H11
+Added Pin To Net: NetName=BLDO1 Pin=U12-P18
+Added Pin To Net: NetName=USB0_N Pin=U15-2
+Added Pin To Net: NetName=SDC0_D1 Pin=U17-2
+Added Pin To Net: NetName=SDC0_D3 Pin=U19-2
+Added Pin To Net: NetName=HOST3_P Pin=U25-2
+Added Pin To Net: NetName=USB1_N Pin=U27-2
+Added Pin To Net: NetName=USB1_P Pin=U28-2
+Added Pin To Net: NetName=GND Pin=U30-2
+Added Pin To Net: NetName=PS Pin=U30-4
+Added Pin To Net: NetName=VCC33_WIFI Pin=U31-1
+Added Pin To Net: NetName=GND Pin=U31-2
+Added Pin To Net: NetName=VCC33_WIFI Pin=U31-3
+Added Pin To Net: NetName=GND Pin=U32-1
+Added Pin To Net: NetName=GND Pin=U33-A16
+Added Pin To Net: NetName=GND Pin=U33-A21
+Added Pin To Net: NetName=GND Pin=U33-A23
+Added Pin To Net: NetName=GND Pin=U33-AA8
+Added Pin To Net: NetName=GND Pin=U33-AA16
+Added Pin To Net: NetName=GND Pin=U33-AA21
+Added Pin To Net: NetName=GND Pin=U33-AB3
+Added Pin To Net: NetName=GND Pin=U33-AB13
+Added Pin To Net: NetName=GND Pin=U33-AB21
+Added Pin To Net: NetName=GND Pin=U33-AC1
+Added Pin To Net: NetName=GND Pin=U33-AC5
+Added Pin To Net: NetName=GND Pin=U33-AC11
+Added Pin To Net: NetName=GND Pin=U33-AC19
+Added Pin To Net: NetName=GND Pin=U33-AC23
+Added Pin To Net: NetName=GND Pin=U33-C12
+Added Pin To Net: NetName=GND Pin=U33-C13
+Added Pin To Net: NetName=GND Pin=U33-C14
+Added Pin To Net: NetName=GND Pin=U33-C18
+Added Pin To Net: NetName=GND Pin=U33-C22
+Added Pin To Net: NetName=GND Pin=U33-D23
+Added Pin To Net: NetName=GND Pin=U33-E13
+Added Pin To Net: NetName=GND Pin=U33-E15
+Added Pin To Net: NetName=GND Pin=U33-E16
+Added Pin To Net: NetName=GND Pin=U33-E18
+Added Pin To Net: NetName=GND Pin=U33-F12
+Added Pin To Net: NetName=GND Pin=U33-F13
+Added Pin To Net: NetName=GND Pin=U33-F14
+Added Pin To Net: NetName=GND Pin=U33-F15
+Added Pin To Net: NetName=GND Pin=U33-F16
+Added Pin To Net: NetName=GND Pin=U33-F17
+Added Pin To Net: NetName=GND Pin=U33-F21
+Added Pin To Net: NetName=GND Pin=U33-G7
+Added Pin To Net: NetName=ALDO3 Pin=U33-G8
+Added Pin To Net: NetName=GND Pin=U33-G9
+Added Pin To Net: NetName=BLDO2 Pin=U33-G11
+Added Pin To Net: NetName=VDD09_HDMI Pin=U33-G13
+Added Pin To Net: NetName=VDD09_HDMI Pin=U33-G14
+Added Pin To Net: NetName=GND Pin=U33-G15
+Added Pin To Net: NetName=GND Pin=U33-H1
+Added Pin To Net: NetName=GND Pin=U33-H7
+Added Pin To Net: NetName=GND Pin=U33-H8
+Added Pin To Net: NetName=GND Pin=U33-H9
+Added Pin To Net: NetName=GND Pin=U33-H10
+Added Pin To Net: NetName=GND Pin=U33-H12
+Added Pin To Net: NetName=VDD09_HDMI Pin=U33-H13
+Added Pin To Net: NetName=VDD09_HDMI Pin=U33-H14
+Added Pin To Net: NetName=GND Pin=U33-H15
+Added Pin To Net: NetName=GND Pin=U33-H16
+Added Pin To Net: NetName=GND Pin=U33-H23
+Added Pin To Net: NetName=GND Pin=U33-J7
+Added Pin To Net: NetName=GND Pin=U33-J8
+Added Pin To Net: NetName=GND Pin=U33-J9
+Added Pin To Net: NetName=GND Pin=U33-J10
+Added Pin To Net: NetName=GND Pin=U33-J11
+Added Pin To Net: NetName=GND Pin=U33-J12
+Added Pin To Net: NetName=VDD09_HDMI Pin=U33-J13
+Added Pin To Net: NetName=VDD09_HDMI Pin=U33-J14
+Added Pin To Net: NetName=GND Pin=U33-J15
+Added Pin To Net: NetName=GND Pin=U33-J16
+Added Pin To Net: NetName=GND Pin=U33-J17
+Added Pin To Net: NetName=GND Pin=U33-K7
+Added Pin To Net: NetName=GND Pin=U33-K8
+Added Pin To Net: NetName=GND Pin=U33-K9
+Added Pin To Net: NetName=GND Pin=U33-K10
+Added Pin To Net: NetName=GND Pin=U33-K11
+Added Pin To Net: NetName=GND Pin=U33-K12
+Added Pin To Net: NetName=GND Pin=U33-K13
+Added Pin To Net: NetName=GND Pin=U33-K14
+Added Pin To Net: NetName=GND Pin=U33-K15
+Added Pin To Net: NetName=GND Pin=U33-K16
+Added Pin To Net: NetName=GND Pin=U33-K17
+Added Pin To Net: NetName=GND Pin=U33-L7
+Added Pin To Net: NetName=VDD_GPU Pin=U33-L8
+Added Pin To Net: NetName=GND Pin=U33-L9
+Added Pin To Net: NetName=GND Pin=U33-L10
+Added Pin To Net: NetName=GND Pin=U33-L11
+Added Pin To Net: NetName=GND Pin=U33-L12
+Added Pin To Net: NetName=GND Pin=U33-L13
+Added Pin To Net: NetName=GND Pin=U33-L14
+Added Pin To Net: NetName=GND Pin=U33-L15
+Added Pin To Net: NetName=VDD_CPU Pin=U33-L16
+Added Pin To Net: NetName=VDD_CPU Pin=U33-L17
+Added Pin To Net: NetName=GND Pin=U33-L18
+Added Pin To Net: NetName=GND Pin=U33-M1
+Added Pin To Net: NetName=GND Pin=U33-M7
+Added Pin To Net: NetName=VDD_GPU Pin=U33-M8
+Added Pin To Net: NetName=VDD_GPU Pin=U33-M9
+Added Pin To Net: NetName=GND Pin=U33-M10
+Added Pin To Net: NetName=GND Pin=U33-M11
+Added Pin To Net: NetName=GND Pin=U33-M12
+Added Pin To Net: NetName=GND Pin=U33-M13
+Added Pin To Net: NetName=GND Pin=U33-M14
+Added Pin To Net: NetName=GND Pin=U33-M15
+Added Pin To Net: NetName=VDD_CPU Pin=U33-M16
+Added Pin To Net: NetName=VDD_CPU Pin=U33-M17
+Added Pin To Net: NetName=GND Pin=U33-M18
+Added Pin To Net: NetName=GND Pin=U33-M23
+Added Pin To Net: NetName=GND Pin=U33-N7
+Added Pin To Net: NetName=VDD_GPU Pin=U33-N8
+Added Pin To Net: NetName=VDD_GPU Pin=U33-N9
+Added Pin To Net: NetName=GND Pin=U33-N10
+Added Pin To Net: NetName=GND Pin=U33-N11
+Added Pin To Net: NetName=GND Pin=U33-N12
+Added Pin To Net: NetName=GND Pin=U33-N13
+Added Pin To Net: NetName=GND Pin=U33-N14
+Added Pin To Net: NetName=GND Pin=U33-N15
+Added Pin To Net: NetName=VDD_CPU Pin=U33-N16
+Added Pin To Net: NetName=VDD_CPU Pin=U33-N17
+Added Pin To Net: NetName=GND Pin=U33-N18
+Added Pin To Net: NetName=GND Pin=U33-P7
+Added Pin To Net: NetName=VDD_GPU Pin=U33-P8
+Added Pin To Net: NetName=VDD_GPU Pin=U33-P9
+Added Pin To Net: NetName=GND Pin=U33-P10
+Added Pin To Net: NetName=GND Pin=U33-P11
+Added Pin To Net: NetName=GND Pin=U33-P12
+Added Pin To Net: NetName=GND Pin=U33-P13
+Added Pin To Net: NetName=GND Pin=U33-P14
+Added Pin To Net: NetName=VDD_CPU Pin=U33-P15
+Added Pin To Net: NetName=VDD_CPU Pin=U33-P16
+Added Pin To Net: NetName=VDD_CPU Pin=U33-P17
+Added Pin To Net: NetName=GND Pin=U33-P20
+Added Pin To Net: NetName=GND Pin=U33-R8
+Added Pin To Net: NetName=GND Pin=U33-R9
+Added Pin To Net: NetName=GND Pin=U33-R10
+Added Pin To Net: NetName=GND Pin=U33-R11
+Added Pin To Net: NetName=GND Pin=U33-R12
+Added Pin To Net: NetName=GND Pin=U33-R13
+Added Pin To Net: NetName=GND Pin=U33-R14
+Added Pin To Net: NetName=GND Pin=U33-R15
+Added Pin To Net: NetName=GND Pin=U33-R17
+Added Pin To Net: NetName=GND Pin=U33-R18
+Added Pin To Net: NetName=GND Pin=U33-T7
+Added Pin To Net: NetName=GND Pin=U33-T8
+Added Pin To Net: NetName=GND Pin=U33-T9
+Added Pin To Net: NetName=GND Pin=U33-T10
+Added Pin To Net: NetName=GND Pin=U33-T11
+Added Pin To Net: NetName=GND Pin=U33-T12
+Added Pin To Net: NetName=GND Pin=U33-T13
+Added Pin To Net: NetName=GND Pin=U33-T14
+Added Pin To Net: NetName=GND Pin=U33-T15
+Added Pin To Net: NetName=GND Pin=U33-T16
+Added Pin To Net: NetName=GND Pin=U33-T18
+Added Pin To Net: NetName=GND Pin=U33-T19
+Added Pin To Net: NetName=GND Pin=U33-U6
+Added Pin To Net: NetName=GND Pin=U33-U7
+Added Pin To Net: NetName=GND Pin=U33-U9
+Added Pin To Net: NetName=GND Pin=U33-U10
+Added Pin To Net: NetName=GND Pin=U33-U11
+Added Pin To Net: NetName=GND Pin=U33-U12
+Added Pin To Net: NetName=GND Pin=U33-U15
+Added Pin To Net: NetName=GND Pin=U33-U17
+Added Pin To Net: NetName=GND Pin=U33-U18
+Added Pin To Net: NetName=GND Pin=U33-U22
+Added Pin To Net: NetName=GND Pin=U33-U23
+Added Pin To Net: NetName=GND Pin=U33-V5
+Added Pin To Net: NetName=GND Pin=U33-V7
+Added Pin To Net: NetName=GND Pin=U33-V13
+Added Pin To Net: NetName=GND Pin=U33-V17
+Added Pin To Net: NetName=GND Pin=U33-V19
+Added Pin To Net: NetName=GND Pin=U33-V20
+Added Pin To Net: NetName=GND Pin=U33-W1
+Added Pin To Net: NetName=GND Pin=U33-W3
+Added Pin To Net: NetName=GND Pin=U33-W10
+Added Pin To Net: NetName=GND Pin=U33-W21
+Added Pin To Net: NetName=GND Pin=U33-W23
+Added Pin To Net: NetName=GND Pin=U33-Y5
+Added Pin To Net: NetName=GND Pin=U33-Y13
+Added Pin To Net: NetName=GND Pin=U33-Y19
+Added Pin To Net: NetName=GND Pin=U35-1
+Added Pin To Net: NetName=HOST3_P Pin=USB1-3
+Added Pin To Net: NetName=USB1_N Pin=USB1-11
+Added Pin To Net: NetName=USB1_P Pin=USB1-12
+Added Pin To Net: NetName=USB1_SSRX_N Pin=USB1-14
+Added Pin To Net: NetName=USB0_N Pin=USB2-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-3
+Change Net Name : Old Net Name=PWRON New Net Name=PWR_ON
+Change Net Name : Old Net Name=SDQ0 New Net Name=NetU1_P9
+Change Net Name : Old Net Name=SDQ1 New Net Name=NetU1_M8
+Change Net Name : Old Net Name=SDQ2 New Net Name=NetU1_N9
+Change Net Name : Old Net Name=SDQ3 New Net Name=NetU1_N10
+Change Net Name : Old Net Name=SDQ4 New Net Name=NetU1_N11
+Change Net Name : Old Net Name=SDQ5 New Net Name=NetU1_M9
+Change Net Name : Old Net Name=SDQ6 New Net Name=NetU1_M10
+Change Net Name : Old Net Name=SDQ7 New Net Name=NetU1_M11
+Change Net Name : Old Net Name=SDQ8 New Net Name=NetU1_R11
+Change Net Name : Old Net Name=SDQ9 New Net Name=NetU1_T11
+Change Net Name : Old Net Name=SDQ10 New Net Name=NetU1_T10
+Change Net Name : Old Net Name=SDQ11 New Net Name=NetU1_R10
+Change Net Name : Old Net Name=SDQ12 New Net Name=NetU1_T9
+Change Net Name : Old Net Name=SDQ13 New Net Name=NetU1_R9
+Change Net Name : Old Net Name=SDQ14 New Net Name=NetU1_T8
+Change Net Name : Old Net Name=SDQ15 New Net Name=NetU1_R8
+Change Net Name : Old Net Name=SDQ16 New Net Name=NetU1_E9
+Change Net Name : Old Net Name=SDQ17 New Net Name=NetU1_F8
+Change Net Name : Old Net Name=SDQ18 New Net Name=NetU1_F9
+Change Net Name : Old Net Name=SDQ19 New Net Name=NetU1_D9
+Change Net Name : Old Net Name=SDQ20 New Net Name=NetU1_F10
+Change Net Name : Old Net Name=SDQ21 New Net Name=NetU1_E10
+Change Net Name : Old Net Name=SDQ22 New Net Name=NetU1_F11
+Change Net Name : Old Net Name=SDQ23 New Net Name=NetU1_E11
+Change Net Name : Old Net Name=SDQ24 New Net Name=NetU1_C8
+Change Net Name : Old Net Name=SDQ25 New Net Name=NetU1_B8
+Change Net Name : Old Net Name=SDQ26 New Net Name=NetU1_C9
+Change Net Name : Old Net Name=SDQ27 New Net Name=NetU1_B9
+Change Net Name : Old Net Name=SDQ28 New Net Name=NetU1_B10
+Change Net Name : Old Net Name=SDQ29 New Net Name=NetU1_B11
+Change Net Name : Old Net Name=SDQ30 New Net Name=NetU1_C11
+Change Net Name : Old Net Name=SDQ31 New Net Name=NetU1_C10
+Added Pin To Net: NetName=AC_AVCC Pin=C134-2
+Added Pin To Net: NetName=AC_AVCC Pin=C135-2
+Added Pin To Net: NetName=AC_AVCC Pin=U12-D3
+Added Net: Name=AC_AVCC
+Added Pin To Net: NetName=AC_VDD_IN Pin=C136-2
+Added Pin To Net: NetName=AC_VDD_IN Pin=U12-D5
+Added Pin To Net: NetName=AC_VDD_IN Pin=U12-E6
+Added Net: Name=AC_VDD_IN
+Added Pin To Net: NetName=AP_CK32KO Pin=U12-G20
+Added Net: Name=AP_CK32KO
+Add Net: Net with name "AP_NMI" already exists
+Add Net: Net with name "AP_RESET" already exists
+Added Pin To Net: NetName=BIAS_ITEST Pin=R73-1
+Added Pin To Net: NetName=BIAS_ITEST Pin=U12-D20
+Added Net: Name=BIAS_ITEST
+Added Pin To Net: NetName=BIAS_REXT Pin=C101-1
+Added Pin To Net: NetName=BIAS_REXT Pin=U12-D21
+Added Net: Name=BIAS_REXT
+Added Pin To Net: NetName=BIAS_VRAL Pin=R72-1
+Added Pin To Net: NetName=BIAS_VRAL Pin=U12-D19
+Added Net: Name=BIAS_VRAL
+Added Pin To Net: NetName=CPUX_URX Pin=Q4-2
+Added Pin To Net: NetName=CPUX_URX Pin=R85-1
+Added Pin To Net: NetName=CPUX_URX Pin=U2-D12
+Added Net: Name=CPUX_URX
+Added Pin To Net: NetName=CPUX_UTX Pin=R84-1
+Added Pin To Net: NetName=CPUX_UTX Pin=U2-C9
+Added Net: Name=CPUX_UTX
+Added Pin To Net: NetName=DCXO_LDOOUT Pin=C127-2
+Added Pin To Net: NetName=DCXO_LDOOUT Pin=U12-D22
+Added Net: Name=DCXO_LDOOUT
+Added Pin To Net: NetName=DCXO_XIN Pin=C128-2
+Added Pin To Net: NetName=DCXO_XIN Pin=U12-B23
+Added Pin To Net: NetName=DCXO_XIN Pin=X2-1
+Added Net: Name=DCXO_XIN
+Added Pin To Net: NetName=DCXO_XOUT Pin=R80-2
+Added Pin To Net: NetName=DCXO_XOUT Pin=U12-B22
+Added Net: Name=DCXO_XOUT
+Added Pin To Net: NetName=EPHY_RTX Pin=R76-2
+Added Pin To Net: NetName=EPHY_RTX Pin=U12-B4
+Added Net: Name=EPHY_RTX
+Added Pin To Net: NetName=KEYADC Pin=C131-2
+Added Pin To Net: NetName=KEYADC Pin=R74-1
+Added Pin To Net: NetName=KEYADC Pin=U12-B21
+Added Net: Name=KEYADC
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=U12-D1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=U12-D2
+Added Net: Name=NetC34_2
+Added Pin To Net: NetName=NetC88_1 Pin=C88-1
+Added Pin To Net: NetName=NetC88_1 Pin=R65-1
+Added Pin To Net: NetName=NetC88_1 Pin=R67-1
+Added Pin To Net: NetName=NetC88_1 Pin=U30-5
+Added Net: Name=NetC88_1
+Added Pin To Net: NetName=NetC88_2 Pin=C88-2
+Added Pin To Net: NetName=NetC88_2 Pin=C92-2
+Added Pin To Net: NetName=NetC88_2 Pin=C93-2
+Added Pin To Net: NetName=NetC88_2 Pin=L7-1
+Added Pin To Net: NetName=NetC88_2 Pin=R67-2
+Added Pin To Net: NetName=NetC88_2 Pin=R68-1
+Added Net: Name=NetC88_2
+Added Pin To Net: NetName=NetC89_2 Pin=C89-2
+Added Pin To Net: NetName=NetC89_2 Pin=R66-2
+Added Pin To Net: NetName=NetC89_2 Pin=U30-1
+Added Net: Name=NetC89_2
+Added Pin To Net: NetName=NetC94_2 Pin=C94-2
+Added Pin To Net: NetName=NetC94_2 Pin=C95-2
+Added Pin To Net: NetName=NetC94_2 Pin=R69-1
+Added Pin To Net: NetName=NetC94_2 Pin=U31-5
+Added Net: Name=NetC94_2
+Added Pin To Net: NetName=NetC125_1 Pin=C125-1
+Added Pin To Net: NetName=NetC125_1 Pin=R80-1
+Added Pin To Net: NetName=NetC125_1 Pin=X2-3
+Added Net: Name=NetC125_1
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Added Pin To Net: NetName=NetL7_2 Pin=U30-3
+Added Net: Name=NetL7_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R90-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R91-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=U34-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetR70_2 Pin=R70-2
+Added Pin To Net: NetName=NetR70_2 Pin=R71-1
+Added Net: Name=NetR70_2
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=U2-P19
+Added Net: Name=NetR71_2
+Added Pin To Net: NetName=NetR77_1 Pin=R77-1
+Added Pin To Net: NetName=NetR77_1 Pin=U12-E8
+Added Net: Name=NetR77_1
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=NetR78_1 Pin=U12-C7
+Added Net: Name=NetR78_1
+Added Pin To Net: NetName=NetR79_2 Pin=R79-2
+Added Pin To Net: NetName=NetR79_2 Pin=U12-E7
+Added Net: Name=NetR79_2
+Added Pin To Net: NetName=NetR84_2 Pin=R84-2
+Added Pin To Net: NetName=NetR84_2 Pin=U34-1
+Added Net: Name=NetR84_2
+Added Pin To Net: NetName=NetR86_1 Pin=R86-1
+Added Pin To Net: NetName=NetR86_1 Pin=SW1-2
+Added Net: Name=NetR86_1
+Added Pin To Net: NetName=NetR87_1 Pin=R87-1
+Added Pin To Net: NetName=NetR87_1 Pin=SW2-2
+Added Net: Name=NetR87_1
+Added Pin To Net: NetName=NetR88_1 Pin=R88-1
+Added Pin To Net: NetName=NetR88_1 Pin=SW3-2
+Added Net: Name=NetR88_1
+Added Pin To Net: NetName=PD15 Pin=H1-16
+Added Pin To Net: NetName=PD15 Pin=U2-R3
+Added Net: Name=PD15
+Added Pin To Net: NetName=PD16 Pin=H1-18
+Added Pin To Net: NetName=PD16 Pin=U2-R2
+Added Net: Name=PD16
+Added Pin To Net: NetName=PD18 Pin=H1-12
+Added Pin To Net: NetName=PD18 Pin=U2-P4
+Added Net: Name=PD18
+Added Pin To Net: NetName=PD21 Pin=H1-22
+Added Pin To Net: NetName=PD21 Pin=U2-T3
+Added Net: Name=PD21
+Added Pin To Net: NetName=PL8 Pin=H1-26
+Added Pin To Net: NetName=PL8 Pin=U2-H22
+Added Net: Name=PL8
+Added Pin To Net: NetName=PL10 Pin=H1-15
+Added Pin To Net: NetName=PL10 Pin=U2-H21
+Added Net: Name=PL10
+Added Pin To Net: NetName=PWM0 Pin=H1-7
+Added Pin To Net: NetName=PWM0 Pin=U2-U2
+Added Net: Name=PWM0
+Added Pin To Net: NetName=PWR_LED Pin=R90-1
+Added Pin To Net: NetName=PWR_LED Pin=U2-K21
+Added Net: Name=PWR_LED
+Add Net: Net with name "PWR_ON" already exists
+Added Pin To Net: NetName=REVOVERY Pin=C157-2
+Added Pin To Net: NetName=REVOVERY Pin=R89-1
+Added Pin To Net: NetName=REVOVERY Pin=SW4-2
+Added Pin To Net: NetName=REVOVERY Pin=U2-J22
+Added Pin To Net: NetName=REVOVERY Pin=U35-2
+Added Net: Name=REVOVERY
+Added Pin To Net: NetName=RTC_VIO Pin=C104-2
+Added Pin To Net: NetName=RTC_VIO Pin=C105-2
+Added Pin To Net: NetName=RTC_VIO Pin=C106-2
+Added Pin To Net: NetName=RTC_VIO Pin=U12-F19
+Added Pin To Net: NetName=RTC_VIO Pin=U33-K18
+Added Net: Name=RTC_VIO
+Added Pin To Net: NetName=S_UART_RX Pin=H1-10
+Added Pin To Net: NetName=S_UART_RX Pin=U2-J20
+Added Net: Name=S_UART_RX
+Added Pin To Net: NetName=S_UART_TX Pin=H1-8
+Added Pin To Net: NetName=S_UART_TX Pin=U2-K22
+Added Net: Name=S_UART_TX
+Added Pin To Net: NetName=SPI1_CLK Pin=H1-23
+Added Pin To Net: NetName=SPI1_CLK Pin=U2-E12
+Added Net: Name=SPI1_CLK
+Added Pin To Net: NetName=SPI1_CS Pin=H1-24
+Added Pin To Net: NetName=SPI1_CS Pin=U2-D11
+Added Net: Name=SPI1_CS
+Added Pin To Net: NetName=SPI1_MISO Pin=H1-21
+Added Pin To Net: NetName=SPI1_MISO Pin=U2-D9
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=H1-19
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-F9
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=STATUS_LED Pin=R91-1
+Added Pin To Net: NetName=STATUS_LED Pin=U2-J21
+Added Net: Name=STATUS_LED
+Added Pin To Net: NetName=TWIO_SCL Pin=H1-5
+Added Pin To Net: NetName=TWIO_SCL Pin=R83-1
+Added Pin To Net: NetName=TWIO_SCL Pin=U2-U3
+Added Net: Name=TWIO_SCL
+Added Pin To Net: NetName=TWIO_SDA Pin=H1-3
+Added Pin To Net: NetName=TWIO_SDA Pin=R82-1
+Added Pin To Net: NetName=TWIO_SDA Pin=U2-R5
+Added Net: Name=TWIO_SDA
+Added Pin To Net: NetName=UART3_RX Pin=H1-11
+Added Pin To Net: NetName=UART3_RX Pin=U2-V1
+Added Net: Name=UART3_RX
+Added Pin To Net: NetName=UART3_TX Pin=H1-13
+Added Pin To Net: NetName=UART3_TX Pin=U2-U5
+Added Net: Name=UART3_TX
+Added Pin To Net: NetName=UBOOT Pin=C155-2
+Added Pin To Net: NetName=UBOOT Pin=R87-2
+Added Pin To Net: NetName=UBOOT Pin=U12-G17
+Added Net: Name=UBOOT
+Added Pin To Net: NetName=VDD_CPUFB Pin=U33-R16
+Added Pin To Net: NetName=VDD_CPUFB Pin=U33-T17
+Added Net: Name=VDD_CPUFB
+Add Net: Net with name "VDD_CPUFB" already exists
+Added Pin To Net: NetName=VDD_GPUFB Pin=U4-47
+Added Net: Name=VDD_GPUFB
+Add Net: Net with name "VDD_GPUFB" already exists
+Added Pin To Net: NetName=VRA1 Pin=C138-2
+Added Pin To Net: NetName=VRA1 Pin=U12-C4
+Added Net: Name=VRA1
+Added Pin To Net: NetName=VRA2 Pin=C137-2
+Added Pin To Net: NetName=VRA2 Pin=U12-D4
+Added Net: Name=VRA2
+Added Pin To Net: NetName=WIFI_PWR_EN Pin=R66-1
+Added Pin To Net: NetName=WIFI_PWR_EN Pin=U2-F8
+Added Net: Name=WIFI_PWR_EN
+Added Pin To Net: NetName=X32KI Pin=C139-1
+Added Pin To Net: NetName=X32KI Pin=R81-2
+Added Pin To Net: NetName=X32KI Pin=U12-F23
+Added Pin To Net: NetName=X32KI Pin=X3-4
+Added Net: Name=X32KI
+Added Pin To Net: NetName=X32KO Pin=C140-1
+Added Pin To Net: NetName=X32KO Pin=R81-1
+Added Pin To Net: NetName=X32KO Pin=U12-F22
+Added Pin To Net: NetName=X32KO Pin=X3-1
+Added Net: Name=X32KO
+Added Class: Name=GPIO Button LED
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C88 22pF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C89 1uF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C90 100nF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C91 10uF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C92 100nF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C93 10uF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C94 4.7uF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C95 100nF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component C96 100nF
+Added Member To Class: ClassName=AWH6 Member=Component C97 100nF
+Added Member To Class: ClassName=AWH6 Member=Component C98 100nF
+Added Member To Class: ClassName=AWH6 Member=Component C99 100nF
+Added Member To Class: ClassName=AWH6 Member=Component C100 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C101 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C102 1nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C103 1nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C104 4.7uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C105 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C106 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C107 10uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C108 10uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C109 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C110 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C111 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C112 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C113 22uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C114 10uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C115 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C116 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C117 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C118 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C119 22uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C120 10uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C121 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C122 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C123 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C124 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C125 12pF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C126 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C127 220nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C128 12pF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C129 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C130 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C131 1nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C132 10uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C133 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C134 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C135 10uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C136 4.7uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C137 4.7uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C138 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C139 7pF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C140 7pF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C141 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C142 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C143 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C144 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C145 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C146 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C147 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C148 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C149 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C150 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C151 100nF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C152 1uF
+Added Member To Class: ClassName=U_MPU_2 Member=Component C153 100nF
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component L7 4.7uH
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R65 33kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R66 1kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R67 150kO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R68 0O
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component R69 0O
+Added Member To Class: ClassName=AWH6 Member=Component R70 1kO
+Added Member To Class: ClassName=AWH6 Member=Component R71 10kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R72 150kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R73 10kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R74 1kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R75 10kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R76 6.04kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R77 2kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R78 2kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R79 10kO
+Added Member To Class: ClassName=U_MPU_2 Member=Component R80 0O
+Added Member To Class: ClassName=U_MPU_2 Member=Component R81 10MO
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component U30 SY8089A1AAC
+Added Member To Class: ClassName=Wi-Fi and Bluetooth Member=Component U31 ME6212C18M5G
+Added Member To Class: ClassName=U_MPU_2 Member=Component U32 ESD5451N
+Added Member To Class: ClassName=U_MPU_2 Member=Component U33 Allwinner_H6
+Added Member To Class: ClassName=U_MPU_2 Member=Component X2 24MHz
+Added Member To Class: ClassName=U_MPU_2 Member=Component X3 32.768kHz
+Added Rule: Name=Schematic Supply Nets_2
