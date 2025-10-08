@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=PMU_SCK Pin=U2-K20
+Added Pin To Net: NetName=PMU_SDA Pin=U2-K23
+Change Net Name : Old Net Name=DDC_CDC_EN New Net Name=DDC_CEC_EN

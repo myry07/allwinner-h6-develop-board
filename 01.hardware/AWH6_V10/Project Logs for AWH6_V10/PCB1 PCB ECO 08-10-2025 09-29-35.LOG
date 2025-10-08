@@ -1,0 +1,61 @@
+Added Pin To Net: NetName=ALDO3 Pin=C48-2
+Added Pin To Net: NetName=ALDO3 Pin=C49-2
+Added Pin To Net: NetName=AP_NMI Pin=C102-2
+Added Pin To Net: NetName=AP_RESET Pin=C103-2
+Added Pin To Net: NetName=PWR_ON Pin=C154-2
+Added Pin To Net: NetName=AP_RESET Pin=C156-2
+Added Pin To Net: NetName=AP_CK32KO Pin=R29-2
+Added Pin To Net: NetName=AP_CK32KO Pin=R30-2
+Added Pin To Net: NetName=AP_RESET Pin=R75-2
+Added Pin To Net: NetName=PWR_ON Pin=R86-2
+Added Pin To Net: NetName=AP_RESET Pin=R88-2
+Added Pin To Net: NetName=ALDO3 Pin=U3-E6
+Added Pin To Net: NetName=ALDO3 Pin=U3-F5
+Added Pin To Net: NetName=ALDO3 Pin=U3-J10
+Added Pin To Net: NetName=ALDO3 Pin=U3-K9
+Added Pin To Net: NetName=VDD_CPUFB Pin=U4-39
+Added Pin To Net: NetName=VDD_CPUFB Pin=U4-40
+Added Pin To Net: NetName=AP_NMI Pin=U12-G21
+Added Pin To Net: NetName=AP_RESET Pin=U12-G22
+Added Pin To Net: NetName=AP_RESET Pin=U32-2
+Added Pin To Net: NetName=VDD_GPUFB Pin=U33-R7
+Change Net Name : Old Net Name=NetU1_B8 New Net Name=SDQ25
+Change Net Name : Old Net Name=NetU1_B9 New Net Name=SDQ27
+Change Net Name : Old Net Name=NetU1_B10 New Net Name=SDQ28
+Change Net Name : Old Net Name=NetU1_B11 New Net Name=SDQ29
+Change Net Name : Old Net Name=NetU1_C8 New Net Name=SDQ24
+Change Net Name : Old Net Name=NetU1_C9 New Net Name=SDQ26
+Change Net Name : Old Net Name=NetU1_C10 New Net Name=SDQ31
+Change Net Name : Old Net Name=NetU1_C11 New Net Name=SDQ30
+Change Net Name : Old Net Name=NetU1_D9 New Net Name=SDQ19
+Change Net Name : Old Net Name=NetU1_E9 New Net Name=SDQ16
+Change Net Name : Old Net Name=NetU1_E10 New Net Name=SDQ21
+Change Net Name : Old Net Name=NetU1_E11 New Net Name=SDQ23
+Change Net Name : Old Net Name=NetU1_F8 New Net Name=SDQ17
+Change Net Name : Old Net Name=NetU1_F9 New Net Name=SDQ18
+Change Net Name : Old Net Name=NetU1_F10 New Net Name=SDQ20
+Change Net Name : Old Net Name=NetU1_F11 New Net Name=SDQ22
+Change Net Name : Old Net Name=NetU1_M8 New Net Name=SDQ1
+Change Net Name : Old Net Name=NetU1_M9 New Net Name=SDQ5
+Change Net Name : Old Net Name=NetU1_M10 New Net Name=SDQ6
+Change Net Name : Old Net Name=NetU1_M11 New Net Name=SDQ7
+Change Net Name : Old Net Name=NetU1_N9 New Net Name=SDQ2
+Change Net Name : Old Net Name=NetU1_N10 New Net Name=SDQ3
+Change Net Name : Old Net Name=NetU1_N11 New Net Name=SDQ4
+Change Net Name : Old Net Name=NetU1_P9 New Net Name=SDQ0
+Change Net Name : Old Net Name=NetU1_R8 New Net Name=SDQ15
+Change Net Name : Old Net Name=NetU1_R9 New Net Name=SDQ13
+Change Net Name : Old Net Name=NetU1_R10 New Net Name=SDQ11
+Change Net Name : Old Net Name=NetU1_R11 New Net Name=SDQ8
+Change Net Name : Old Net Name=NetU1_T8 New Net Name=SDQ14
+Change Net Name : Old Net Name=NetU1_T9 New Net Name=SDQ12
+Change Net Name : Old Net Name=NetU1_T10 New Net Name=SDQ10
+Change Net Name : Old Net Name=NetU1_T11 New Net Name=SDQ9
+Change Class Name : Old Net Name=Audio and HDMI New Net Name=Audio-HDMI
+Change Class Name : Old Net Name=AWH6 New Net Name=SoC_1
+Change Class Name : Old Net Name=Embedded MultiMedia Card New Net Name=eMMC
+Change Class Name : Old Net Name=GPIO Button LED New Net Name=GPIO
+Change Class Name : Old Net Name=Low Power DDR3 2GB New Net Name=LPDDR3
+Change Class Name : Old Net Name=TF-Card and USB New Net Name=TF-USB
+Change Class Name : Old Net Name=U_MPU_2 New Net Name=SoC_2
+Change Class Name : Old Net Name=Wi-Fi and Bluetooth New Net Name=Wi-Fi
