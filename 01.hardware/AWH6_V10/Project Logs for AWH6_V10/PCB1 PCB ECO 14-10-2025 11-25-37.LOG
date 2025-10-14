@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=BIAS_REXT Pin=C101-1
+Removed Pin From Net: NetName=PWR_ON Pin=C154-2
+Removed Pin From Net: NetName=UBOOT Pin=C155-2
+Removed Pin From Net: NetName=AP_RESET Pin=C156-2
+Removed Pin From Net: NetName=PL10 Pin=H1-15
+Removed Pin From Net: NetName=SPI1_MOSI Pin=H1-19
+Removed Pin From Net: NetName=SPI1_CLK Pin=H1-23
+Removed Pin From Net: NetName=SPI1_CS Pin=H1-24
+Removed Pin From Net: NetName=PL8 Pin=H1-26
+Removed Pin From Net: NetName=BIAS_VRAL Pin=R72-1
+Removed Pin From Net: NetName=VCC18_RTC Pin=R92-1
+Removed Pin From Net: NetName=VDD18_LPDDR Pin=R92-2
+Removed Member From Class: ClassName=GPIO Member=U34
+Change Component Comment : Designator=R54 Old Comment=10kO New Comment=NC-10kO
+Added Component: Designator=C?(C0402)
+Added Component: Designator=H??(CONN-TH_HX-PZ2.54-1X3P-ZZ)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HX%2520PZ2.54-1x3P%2520ZZ/34444549.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HX PZ2.54-1x3P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x3P ??:2.54mm ?? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HX PZ2.54-1x3P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplementary Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C32713269"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HX PZ2.54-1X3P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "1kV"; VariantName = "[No Variations]"
+Added Component: Designator=LCD??(LCD-SMD_10P-P0.70-L44.8-W8.6_N099-0416THBIG01-H10)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/N099-0416THBIG01-H10/5717767.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "N099-0416THBIG01-H10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dot Pixels"; Value = "160x40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "0.99? ?? 40x160????? ??10PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wisevision(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "N099-0416THBIG01-H10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0.99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5123574"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "N099-0416THBIG01-H10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BIAS_VRAL Pin=C101-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=ALDO3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=H??-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=LCD??-3
+Added Pin To Net: NetName=SPI1_CLK Pin=LCD??-4
+Added Pin To Net: NetName=PL10 Pin=LCD??-5
+Added Pin To Net: NetName=PL8 Pin=LCD??-6
+Added Pin To Net: NetName=SPI1_CS Pin=LCD??-7
+Added Pin To Net: NetName=GND Pin=LCD??-8
+Added Pin To Net: NetName=ALDO3 Pin=LCD??-10
+Added Pin To Net: NetName=PL8 Pin=LCD??-11
+Added Pin To Net: NetName=ALDO3 Pin=LCD??-12
+Added Pin To Net: NetName=GND Pin=LCD??-13
+Added Pin To Net: NetName=BIAS_REXT Pin=R72-1
+Added Pin To Net: NetName=NetC154_2 Pin=C154-2
+Added Pin To Net: NetName=NetC154_2 Pin=R86-1
+Added Pin To Net: NetName=NetC154_2 Pin=SW1-2
+Added Net: Name=NetC154_2
+Added Pin To Net: NetName=NetC155_2 Pin=C155-2
+Added Pin To Net: NetName=NetC155_2 Pin=R87-1
+Added Pin To Net: NetName=NetC155_2 Pin=SW2-2
+Added Net: Name=NetC155_2
+Added Pin To Net: NetName=NetC156_2 Pin=C156-2
+Added Pin To Net: NetName=NetC156_2 Pin=R88-1
+Added Pin To Net: NetName=NetC156_2 Pin=SW3-2
+Added Net: Name=NetC156_2
+Added Pin To Net: NetName=NetH??_1 Pin=H??-1
+Added Pin To Net: NetName=NetH??_1 Pin=R84-2
+Added Net: Name=NetH??_1
+Added Pin To Net: NetName=NetH??_2 Pin=H??-2
+Added Pin To Net: NetName=NetH??_2 Pin=Q4-3
+Added Net: Name=NetH??_2
+Added Member To Class: ClassName=GPIO Member=Component C? 100nF
+Added Member To Class: ClassName=GPIO Member=Component H?? HX PZ2.54-1x3P ZZ
+Added Member To Class: ClassName=GPIO Member=Component LCD?? N099-0416THBIG01-H10

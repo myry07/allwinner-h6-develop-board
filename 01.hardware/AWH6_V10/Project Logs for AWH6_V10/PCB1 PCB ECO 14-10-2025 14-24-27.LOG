@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDQM1 Pin=U1-G8
+Removed Pin From Net: NetName=SDQM2 Pin=U1-P8
+Added Pin To Net: NetName=SDQM2 Pin=U1-G8
+Added Pin To Net: NetName=SDQM1 Pin=U1-P8

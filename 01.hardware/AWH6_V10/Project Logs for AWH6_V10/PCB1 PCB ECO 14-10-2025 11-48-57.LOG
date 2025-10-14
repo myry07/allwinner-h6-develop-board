@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=PL10 Pin=LCD1-5
+Removed Pin From Net: NetName=PL8 Pin=LCD1-6
+Removed Pin From Net: NetName=PL8 Pin=LCD1-11
+Added Component: Designator=Q5(SOT-23_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=R92(R0402)
+Added Component: Designator=R93(R0402)
+Added Component: Designator=R94(R0402)
+Added Pin To Net: NetName=PD18 Pin=LCD1-5
+Added Pin To Net: NetName=PD15 Pin=LCD1-6
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=PD16 Pin=R93-2
+Added Pin To Net: NetName=GND Pin=R94-2
+Added Pin To Net: NetName=LCD_BL Pin=LCD1-11
+Added Pin To Net: NetName=LCD_BL Pin=R92-2
+Added Net: Name=LCD_BL
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R93-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R94-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R92-1
+Added Net: Name=NetQ5_3
+Added Member To Class: ClassName=GPIO Member=Component Q5 Si2302CDS-T1-GE3
+Added Member To Class: ClassName=GPIO Member=Component R92 10O
+Added Member To Class: ClassName=GPIO Member=Component R93 1kO
+Added Member To Class: ClassName=GPIO Member=Component R94 10kO
